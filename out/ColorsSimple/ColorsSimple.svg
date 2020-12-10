@@ -1,0 +1,2138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1360px" preserveAspectRatio="none" style="width:2733px;height:1360px;" version="1.1" viewBox="0 0 2733 1360" width="2733px" zoomAndPan="magnify"><defs><filter height="300%" id="ffx8hjryol9pp" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[7ecec44e74ba6b0d0e0262be510107d4]
+cluster HexCodes--><polygon fill="#FFFFFF" filter="url(#ffx8hjryol9pp)" points="16,6,102,6,109,28.2969,394,28.2969,394,336,16,336,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="109" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="80" x="20" y="20.9951">HexCodes</text><!--MD5=[d7668bd24ff3d579a115a754a517caf0]
+cluster Colours--><polygon fill="#FFFFFF" filter="url(#ffx8hjryol9pp)" points="418,6,485,6,492,28.2969,2716,28.2969,2716,1353,418,1353,418,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="418" x2="492" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61" x="422" y="20.9951">Colours</text><!--MD5=[188d67385d56cc5e87830f808b5944ed]
+entity 00ff00--><rect fill="#00FF00" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00FF00;stroke-width:1.0;" width="82" x="37" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="62" x="47" y="63.9951">«00ff00»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="80" y="80.292"/><!--MD5=[c620e08d798c6449bc8d453cd2a000ee]
+entity ff0000--><rect fill="#FF0000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF0000;stroke-width:1.0;" width="82" x="154" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="62" x="164" y="63.9951">«ff0000»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="197" y="80.292"/><!--MD5=[6ff0c362d11e7f279eeb9608ce47e348]
+entity 0000ff--><rect fill="#0000FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#0000FF;stroke-width:1.0;" width="82" x="271" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="62" x="281" y="63.9951">«0000ff»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="314" y="80.292"/><!--MD5=[af3cfdc5f2bb8725da26b0392241e60b]
+entity 123456--><rect fill="#123456" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#123456;stroke-width:1.0;" width="92" x="32" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="42" y="176.9951">«123456»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="80" y="193.292"/><!--MD5=[5fbe9cfe3f4130aab60bb1e426dc48b7]
+entity 654321--><rect fill="#654321" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#654321;stroke-width:1.0;" width="92" x="159" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="169" y="176.9951">«654321»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="207" y="193.292"/><!--MD5=[811500c86946d05f9ae409c36b7b1d80]
+entity 165432--><rect fill="#165432" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#165432;stroke-width:1.0;" width="92" x="286" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="296" y="176.9951">«165432»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="334" y="193.292"/><!--MD5=[b4cd5b8821b06b90491cb3c2d991418c]
+entity ff22ff--><rect fill="#FF22FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF22FF;stroke-width:1.0;" width="72" x="42" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="52" y="289.9951">«ff22ff»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="80" y="306.292"/><!--MD5=[80d8c7d09a55520664ed1f548973208e]
+entity APPLICATION--><rect fill="#C2F0FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#C2F0FF;stroke-width:1.0;" width="131" x="456.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="111" x="466.5" y="63.9951">«APPLICATION»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="80.292"/><!--MD5=[b9e46f33663fbc9376154c772e035e1f]
+entity AliceBlue--><rect fill="#F0F8FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F0F8FF;stroke-width:1.0;" width="102" x="623" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="82" x="633" y="63.9951">«AliceBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="676" y="80.292"/><!--MD5=[5292e82ac0678363a3deee4f22241612]
+entity AntiqueWhite--><rect fill="#FAEBD7" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FAEBD7;stroke-width:1.0;" width="132" x="760" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="112" x="770" y="63.9951">«AntiqueWhite»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="828" y="80.292"/><!--MD5=[499a1297eda88016b77256eac0a2d5fb]
+entity Aqua--><rect fill="#00FFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00FFFF;stroke-width:1.0;" width="74" x="927" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="54" x="937" y="63.9951">«Aqua»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="966" y="80.292"/><!--MD5=[97038296d2af519e62b90f604485be0e]
+entity Aquamarine--><rect fill="#7FFFD4" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#7FFFD4;stroke-width:1.0;" width="121" x="1036.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="101" x="1046.5" y="63.9951">«Aquamarine»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1099" y="80.292"/><!--MD5=[e4a8075cc378d5866b51e10e7e6d7549]
+entity Azure--><rect fill="#F0FFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F0FFFF;stroke-width:1.0;" width="78" x="1193" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="1203" y="63.9951">«Azure»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1234" y="80.292"/><!--MD5=[5f015d763dcfefa267fc4d3a197b1a8a]
+entity BUSINESS--><rect fill="#FFFFCC" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFFCC;stroke-width:1.0;" width="109" x="1306.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="89" x="1316.5" y="63.9951">«BUSINESS»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1363" y="80.292"/><!--MD5=[8a59e0826c1244a2dcc149cda34acd40]
+entity Beige--><rect fill="#F5F5DC" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F5F5DC;stroke-width:1.0;" width="78" x="1451" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="1461" y="63.9951">«Beige»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1492" y="80.292"/><!--MD5=[afb0d4a06b6f00230be332919fc8ce60]
+entity Bisque--><rect fill="#FFE4C4" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFE4C4;stroke-width:1.0;" width="85" x="1564.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="65" x="1574.5" y="63.9951">«Bisque»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1609" y="80.292"/><!--MD5=[4e921b8f423dae1d5e7df39493d960b9]
+entity Black--><rect fill="#000000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#000000;stroke-width:1.0;" width="75" x="1684.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="55" x="1694.5" y="63.9951">«Black»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1724" y="80.292"/><!--MD5=[9c2cbf8fba5ad6229dd78cfafa658e8c]
+entity BlanchedAlmond--><rect fill="#FFEBCD" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFEBCD;stroke-width:1.0;" width="156" x="1795" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="136" x="1805" y="63.9951">«BlanchedAlmond»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1875" y="80.292"/><!--MD5=[46d05ced431111feae9b10baca71b7f5]
+entity Blue--><rect fill="#0000FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#0000FF;stroke-width:1.0;" width="69" x="1986.5" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="1996.5" y="63.9951">«Blue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2023" y="80.292"/><!--MD5=[6ca1b3d1a4b3fcce4d629b59d1cc64a2]
+entity BlueViolet--><rect fill="#8A2BE2" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#8A2BE2;stroke-width:1.0;" width="108" x="2091" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="2101" y="63.9951">«BlueViolet»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2147" y="80.292"/><!--MD5=[90656d30f692593d44bf619ea94dda08]
+entity Brown--><rect fill="#A52A2A" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#A52A2A;stroke-width:1.0;" width="82" x="481" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="62" x="491" y="176.9951">«Brown»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="193.292"/><!--MD5=[7b1f85c7682aab2094e3fb231b33d88e]
+entity BurlyWood--><rect fill="#DEB887" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#DEB887;stroke-width:1.0;" width="114" x="598" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="94" x="608" y="176.9951">«BurlyWood»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="657" y="193.292"/><!--MD5=[9e30cf2777ed12c29e02173d36307a0c]
+entity CadetBlue--><rect fill="#5F9EA0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#5F9EA0;stroke-width:1.0;" width="110" x="747" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="90" x="757" y="176.9951">«CadetBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="804" y="193.292"/><!--MD5=[62832b08878109e102bd650c39f59cf6]
+entity Chartreuse--><rect fill="#7FFF00" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#7FFF00;stroke-width:1.0;" width="114" x="892" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="94" x="902" y="176.9951">«Chartreuse»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="951" y="193.292"/><!--MD5=[c9b50906c60d50a33b81ff0ff2ad2e47]
+entity Chocolate--><rect fill="#D2691E" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#D2691E;stroke-width:1.0;" width="108" x="1041" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="1051" y="176.9951">«Chocolate»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1097" y="193.292"/><!--MD5=[474284daff71af539d458f24adae9909]
+entity Coral--><rect fill="#FF7F50" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF7F50;stroke-width:1.0;" width="73" x="1184.5" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="53" x="1194.5" y="176.9951">«Coral»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1223" y="193.292"/><!--MD5=[54ab7a79797db60c0bbc3fdc5d189a60]
+entity CornflowerBlue--><rect fill="#6495ED" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#6495ED;stroke-width:1.0;" width="143" x="1292.5" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="123" x="1302.5" y="176.9951">«CornflowerBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1366" y="193.292"/><!--MD5=[807b07c50713460bf43c8b9148fe1300]
+entity Cornsilk--><rect fill="#FFF8DC" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFF8DC;stroke-width:1.0;" width="92" x="1471" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="72" x="1481" y="176.9951">«Cornsilk»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1519" y="193.292"/><!--MD5=[5d75e97531496373d2b7f9cca5baa72b]
+entity Crimson--><rect fill="#DC143C" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#DC143C;stroke-width:1.0;" width="94" x="1598" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1608" y="176.9951">«Crimson»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1647" y="193.292"/><!--MD5=[e850aee934583f105a1f675be5ff5bbb]
+entity Cyan--><rect fill="#00FFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00FFFF;stroke-width:1.0;" width="73" x="1727.5" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="53" x="1737.5" y="176.9951">«Cyan»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1766" y="193.292"/><!--MD5=[dd0e3177b3aa6a37eae00e7bd1050f7f]
+entity DarkBlue--><rect fill="#00008B" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00008B;stroke-width:1.0;" width="101" x="1835.5" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="81" x="1845.5" y="176.9951">«DarkBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1888" y="193.292"/><!--MD5=[498aa325901415dc80ac6f5cc37402a9]
+entity DarkCyan--><rect fill="#008B8B" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#008B8B;stroke-width:1.0;" width="105" x="1971.5" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="1981.5" y="176.9951">«DarkCyan»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2026" y="193.292"/><!--MD5=[488d3172469771f79a34f5d25602583e]
+entity DarkGoldenRod--><rect fill="#B8860B" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#B8860B;stroke-width:1.0;" width="148" x="2112" y="154"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="128" x="2122" y="176.9951">«DarkGoldenRod»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2188" y="193.292"/><!--MD5=[ab87a362c2eb297b7c4928a821955b0a]
+entity DarkGray--><rect fill="#A9A9A9" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#A9A9A9;stroke-width:1.0;" width="102" x="471" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="82" x="481" y="289.9951">«DarkGray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="306.292"/><!--MD5=[12f06f9fd8dda581b9eb7b245b9388a2]
+entity DarkGreen--><rect fill="#006400" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#006400;stroke-width:1.0;" width="113" x="608.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="93" x="618.5" y="289.9951">«DarkGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="667" y="306.292"/><!--MD5=[8cc0364fc96940411ef411693ad61f88]
+entity DarkGrey--><rect fill="#A9A9A9" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#A9A9A9;stroke-width:1.0;" width="103" x="756.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="766.5" y="289.9951">«DarkGrey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="810" y="306.292"/><!--MD5=[ce06aa9a7c4afa0101284d22f53d5fea]
+entity DarkKhaki--><rect fill="#BDB76B" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#BDB76B;stroke-width:1.0;" width="107" x="894.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="904.5" y="289.9951">«DarkKhaki»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="950" y="306.292"/><!--MD5=[f293ddca148352b65c90c025ea2bacd4]
+entity DarkMagenta--><rect fill="#8B008B" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#8B008B;stroke-width:1.0;" width="130" x="1037" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="110" x="1047" y="289.9951">«DarkMagenta»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1104" y="306.292"/><!--MD5=[155d1e226a0868cf317fe4800a17875c]
+entity DarkOliveGreen--><rect fill="#556B2F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#556B2F;stroke-width:1.0;" width="147" x="1202.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="127" x="1212.5" y="289.9951">«DarkOliveGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1278" y="306.292"/><!--MD5=[fd4abc6752199b8d128d0bdcf8eb0059]
+entity DarkOrchid--><rect fill="#9932CC" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#9932CC;stroke-width:1.0;" width="115" x="1384.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="95" x="1394.5" y="289.9951">«DarkOrchid»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1444" y="306.292"/><!--MD5=[1d996adf49a9c1477720a5958299d2e6]
+entity DarkRed--><rect fill="#8B0000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#8B0000;stroke-width:1.0;" width="98" x="1535" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="1545" y="289.9951">«DarkRed»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1586" y="306.292"/><!--MD5=[226a1a5f8c49939fde6cafde4490480b]
+entity DarkSalmon--><rect fill="#E9967A" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#E9967A;stroke-width:1.0;" width="121" x="1668.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="101" x="1678.5" y="289.9951">«DarkSalmon»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1731" y="306.292"/><!--MD5=[6d432b510020c118b43f8ae486faaffc]
+entity DarkSeaGreen--><rect fill="#8FBC8F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#8FBC8F;stroke-width:1.0;" width="139" x="1824.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="119" x="1834.5" y="289.9951">«DarkSeaGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1896" y="306.292"/><!--MD5=[83c101b38c9a1ccb4f6a9f0c007c0387]
+entity DarkSlateBlue--><rect fill="#483D8B" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#483D8B;stroke-width:1.0;" width="135" x="1998.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="2008.5" y="289.9951">«DarkSlateBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2068" y="306.292"/><!--MD5=[dc0ed1c0a54cd2ff05854a231303d7f9]
+entity DarkSlateGray--><rect fill="#2F4F4F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#2F4F4F;stroke-width:1.0;" width="136" x="2169" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="116" x="2179" y="289.9951">«DarkSlateGray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2239" y="306.292"/><!--MD5=[8a096dc82872d2b1f8884e3cca11642f]
+entity DarkSlateGrey--><rect fill="#2F4F4F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#2F4F4F;stroke-width:1.0;" width="137" x="2340.5" y="267"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="117" x="2350.5" y="289.9951">«DarkSlateGrey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2411" y="306.292"/><!--MD5=[528d41243cc002bbe95ba715012a4cf8]
+entity DarkTurquoise--><rect fill="#00CED1" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00CED1;stroke-width:1.0;" width="139" x="452.5" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="119" x="462.5" y="402.9951">«DarkTurquoise»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="419.292"/><!--MD5=[bacc025fd7b333ffb75c68ac1ff795f9]
+entity DarkViolet--><rect fill="#9400D3" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#9400D3;stroke-width:1.0;" width="109" x="626.5" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="89" x="636.5" y="402.9951">«DarkViolet»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="683" y="419.292"/><!--MD5=[60d52c3bb2779813f31e077b79bfc1d2]
+entity Darkorange--><rect fill="#FF8C00" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF8C00;stroke-width:1.0;" width="119" x="770.5" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="99" x="780.5" y="402.9951">«Darkorange»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="832" y="419.292"/><!--MD5=[981452a283faf7535ed104748fed778f]
+entity DeepPink--><rect fill="#FF1493" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF1493;stroke-width:1.0;" width="104" x="925" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="84" x="935" y="402.9951">«DeepPink»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="979" y="419.292"/><!--MD5=[fbed0dc1838b2e659ccc12e72a20e45f]
+entity DeepSkyBlue--><rect fill="#00BFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00BFFF;stroke-width:1.0;" width="132" x="1064" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="112" x="1074" y="402.9951">«DeepSkyBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1132" y="419.292"/><!--MD5=[a64ddbd32d0731978c5c562e79d68800]
+entity DimGray--><rect fill="#696969" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#696969;stroke-width:1.0;" width="97" x="1231.5" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="1241.5" y="402.9951">«DimGray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1282" y="419.292"/><!--MD5=[1784e0c6f3ac6df50841cac32112f4ac]
+entity DimGrey--><rect fill="#696969" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#696969;stroke-width:1.0;" width="98" x="1364" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="1374" y="402.9951">«DimGrey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1415" y="419.292"/><!--MD5=[b77e3a63a2cd2a6925d1fc5dccd21398]
+entity DodgerBlue--><rect fill="#1E90FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#1E90FF;stroke-width:1.0;" width="121" x="1497.5" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="101" x="1507.5" y="402.9951">«DodgerBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1560" y="419.292"/><!--MD5=[1862553eede080414e0d7da0cb557df3]
+entity FireBrick--><rect fill="#B22222" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#B22222;stroke-width:1.0;" width="97" x="1653.5" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="1663.5" y="402.9951">«FireBrick»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1704" y="419.292"/><!--MD5=[8c5bbf19a3fa1d364eea3a6355624302]
+entity FloralWhite--><rect fill="#FFFAF0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFAF0;stroke-width:1.0;" width="114" x="1786" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="94" x="1796" y="402.9951">«FloralWhite»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1845" y="419.292"/><!--MD5=[67a5f791638d39a9a56b6547bca10afd]
+entity ForestGreen--><rect fill="#228B22" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#228B22;stroke-width:1.0;" width="124" x="1935" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="104" x="1945" y="402.9951">«ForestGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1999" y="419.292"/><!--MD5=[fa20a23ab9ac07c37918ca068c16ed5b]
+entity Fuchsia--><rect fill="#FF00FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF00FF;stroke-width:1.0;" width="90" x="2094" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="2104" y="402.9951">«Fuchsia»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2141" y="419.292"/><!--MD5=[704ebae021bebd8e2cba6e24c5c78485]
+entity Gainsboro--><rect fill="#DCDCDC" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#DCDCDC;stroke-width:1.0;" width="108" x="2219" y="380"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="2229" y="402.9951">«Gainsboro»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2275" y="419.292"/><!--MD5=[e8c4e740f7d27612c9c1a0d3b965fa22]
+entity GhostWhite--><rect fill="#F8F8FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F8F8FF;stroke-width:1.0;" width="119" x="462.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="99" x="472.5" y="515.9951">«GhostWhite»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="532.292"/><!--MD5=[3a465f52e543fb5026f3b70c2e15fe20]
+entity Gold--><rect fill="#FFD700" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFD700;stroke-width:1.0;" width="70" x="617" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="50" x="627" y="515.9951">«Gold»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="654" y="532.292"/><!--MD5=[bff64f16544d635cf59c2c47f2cc1bcc]
+entity GoldenRod--><rect fill="#DAA520" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#DAA520;stroke-width:1.0;" width="116" x="722" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="96" x="732" y="515.9951">«GoldenRod»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="782" y="532.292"/><!--MD5=[5252939b9b48bdf1120adb26160e1dd3]
+entity Gray--><rect fill="#808080" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#808080;stroke-width:1.0;" width="70" x="873" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="50" x="883" y="515.9951">«Gray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="910" y="532.292"/><!--MD5=[9e579a70d3faa683789333f4ec07515c]
+entity Green--><rect fill="#008000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#008000;stroke-width:1.0;" width="81" x="978.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="61" x="988.5" y="515.9951">«Green»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1021" y="532.292"/><!--MD5=[6dfbc7435e1d89229dad966e520e3d59]
+entity GreenYellow--><rect fill="#ADFF2F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#ADFF2F;stroke-width:1.0;" width="125" x="1094.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="1104.5" y="515.9951">«GreenYellow»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1159" y="532.292"/><!--MD5=[b892919d9fd8a02ba9c63c621f4c9df6]
+entity Grey--><rect fill="#808080" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#808080;stroke-width:1.0;" width="71" x="1254.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="51" x="1264.5" y="515.9951">«Grey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1292" y="532.292"/><!--MD5=[d379f301e32458ad5370f493f3289a21]
+entity HoneyDew--><rect fill="#F0FFF0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F0FFF0;stroke-width:1.0;" width="115" x="1360.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="95" x="1370.5" y="515.9951">«HoneyDew»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1420" y="532.292"/><!--MD5=[9e522e01f043fedbdf0ebbe9e9fcd1f0]
+entity HotPink--><rect fill="#FF69B4" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF69B4;stroke-width:1.0;" width="91" x="1510.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="71" x="1520.5" y="515.9951">«HotPink»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1558" y="532.292"/><!--MD5=[8cfc9a3b8ef26a08570a6ba2be064520]
+entity IMPLEMENTATION--><rect fill="#FFE0E0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFE0E0;stroke-width:1.0;" width="165" x="1636.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="145" x="1646.5" y="515.9951">«IMPLEMENTATION»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1721" y="532.292"/><!--MD5=[351ed7e8c84443943bc19598730665c6]
+entity IndianRed--><rect fill="#CD5C5C" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#CD5C5C;stroke-width:1.0;" width="108" x="1837" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="1847" y="515.9951">«IndianRed»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1893" y="532.292"/><!--MD5=[6bc0b0ecbfa32c82d472c167d20999c5]
+entity Indigo--><rect fill="#4B0082" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#4B0082;stroke-width:1.0;" width="81" x="1980.5" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="61" x="1990.5" y="515.9951">«Indigo»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2023" y="532.292"/><!--MD5=[aa7e530a6b5ab3784c9a0f6be65ed0ca]
+entity Ivory--><rect fill="#FFFFF0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFFF0;stroke-width:1.0;" width="72" x="2097" y="493"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="2107" y="515.9951">«Ivory»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2135" y="532.292"/><!--MD5=[9f4928f98485e030829b88c37e62b832]
+entity Khaki--><rect fill="#F0E68C" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F0E68C;stroke-width:1.0;" width="75" x="484.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="55" x="494.5" y="628.9951">«Khaki»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="645.292"/><!--MD5=[d0d81fd9273f9f9aa365d38e2f226426]
+entity Lavender--><rect fill="#E6E6FA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#E6E6FA;stroke-width:1.0;" width="103" x="594.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="604.5" y="628.9951">«Lavender»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="648" y="645.292"/><!--MD5=[344699caafd8a0d9a525a370cf177ff1]
+entity LavenderBlush--><rect fill="#FFF0F5" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFF0F5;stroke-width:1.0;" width="141" x="732.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="121" x="742.5" y="628.9951">«LavenderBlush»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="805" y="645.292"/><!--MD5=[a94417b747fcd6cd15ee5be9c72352b4]
+entity LawnGreen--><rect fill="#7CFC00" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#7CFC00;stroke-width:1.0;" width="117" x="908.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="97" x="918.5" y="628.9951">«LawnGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="969" y="645.292"/><!--MD5=[32d1c0f1dfc079829ec16f09027826bf]
+entity LemonChiffon--><rect fill="#FFFACD" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFACD;stroke-width:1.0;" width="134" x="1061" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="114" x="1071" y="628.9951">«LemonChiffon»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1130" y="645.292"/><!--MD5=[bd19a5e48742d0360be5febe8d22cdb4]
+entity LightBlue--><rect fill="#ADD8E6" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#ADD8E6;stroke-width:1.0;" width="103" x="1230.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="1240.5" y="628.9951">«LightBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1284" y="645.292"/><!--MD5=[e9f0c2329a1c27cb85c59355538a2c8e]
+entity LightCoral--><rect fill="#F08080" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F08080;stroke-width:1.0;" width="107" x="1368.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="1378.5" y="628.9951">«LightCoral»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1424" y="645.292"/><!--MD5=[8a8de3f7207b304a88cccc1fe1488b1e]
+entity LightCyan--><rect fill="#E0FFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#E0FFFF;stroke-width:1.0;" width="107" x="1510.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="1520.5" y="628.9951">«LightCyan»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1566" y="645.292"/><!--MD5=[14391a5b5c2ea73a4ac2f9c22fb653d5]
+entity LightGoldenRodYellow--><rect fill="#FAFAD2" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FAFAD2;stroke-width:1.0;" width="194" x="1653" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="174" x="1663" y="628.9951">«LightGoldenRodYellow»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1752" y="645.292"/><!--MD5=[f41b9903c0c7a1dc2d81c438fa118166]
+entity LightGray--><rect fill="#D3D3D3" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#D3D3D3;stroke-width:1.0;" width="104" x="1882" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="84" x="1892" y="628.9951">«LightGray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1936" y="645.292"/><!--MD5=[0d1a82c78c7843994ac8fea7b182a9a1]
+entity LightGreen--><rect fill="#90EE90" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#90EE90;stroke-width:1.0;" width="115" x="2021.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="95" x="2031.5" y="628.9951">«LightGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2081" y="645.292"/><!--MD5=[3b0c440e5217cb064e420cfd7f2c614b]
+entity LightGrey--><rect fill="#D3D3D3" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#D3D3D3;stroke-width:1.0;" width="105" x="2171.5" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="2181.5" y="628.9951">«LightGrey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2226" y="645.292"/><!--MD5=[9f86502016be24e2c4418078f0e42a19]
+entity LightPink--><rect fill="#FFB6C1" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFB6C1;stroke-width:1.0;" width="100" x="2312" y="606"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="80" x="2322" y="628.9951">«LightPink»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2364" y="645.292"/><!--MD5=[f4c5b27d99f8bbf0453aa591a342c0a1]
+entity LightSalmon--><rect fill="#FFA07A" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFA07A;stroke-width:1.0;" width="123" x="460.5" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="103" x="470.5" y="741.9951">«LightSalmon»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="758.292"/><!--MD5=[6c2bb30e63b8d460d79a89631789f487]
+entity LightSeaGreen--><rect fill="#20B2AA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#20B2AA;stroke-width:1.0;" width="141" x="618.5" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="121" x="628.5" y="741.9951">«LightSeaGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="691" y="758.292"/><!--MD5=[b41f169a66cb7a0d1d8e5c1d3b5c8f8c]
+entity LightSkyBlue--><rect fill="#87CEFA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#87CEFA;stroke-width:1.0;" width="128" x="795" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="108" x="805" y="741.9951">«LightSkyBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="861" y="758.292"/><!--MD5=[dacbb9b657ef8f9a80e3e5915812a983]
+entity LightSlateGray--><rect fill="#778899" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#778899;stroke-width:1.0;" width="138" x="958" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="968" y="741.9951">«LightSlateGray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1029" y="758.292"/><!--MD5=[18ec927592af071421396373824d05d2]
+entity LightSlateGrey--><rect fill="#778899" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#778899;stroke-width:1.0;" width="139" x="1131.5" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="119" x="1141.5" y="741.9951">«LightSlateGrey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1203" y="758.292"/><!--MD5=[9f27bae3b5957ca92c01fb8425d27fa4]
+entity LightSteelBlue--><rect fill="#B0C4DE" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#B0C4DE;stroke-width:1.0;" width="138" x="1306" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="1316" y="741.9951">«LightSteelBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1377" y="758.292"/><!--MD5=[0a23ab7e4877ae9976535892bcaa55a3]
+entity LightYellow--><rect fill="#FFFFE0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFFE0;stroke-width:1.0;" width="116" x="1479" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="96" x="1489" y="741.9951">«LightYellow»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1539" y="758.292"/><!--MD5=[cc521f1ed27e5d49916bceebba160ee2]
+entity Lime--><rect fill="#00FF00" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00FF00;stroke-width:1.0;" width="71" x="1630.5" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="51" x="1640.5" y="741.9951">«Lime»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1668" y="758.292"/><!--MD5=[fab4a9bd29b3ed517ca45f9a0ec23564]
+entity LimeGreen--><rect fill="#32CD32" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#32CD32;stroke-width:1.0;" width="114" x="1737" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="94" x="1747" y="741.9951">«LimeGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1796" y="758.292"/><!--MD5=[57eb22f949d913e6bbb6fa81e6c22b19]
+entity Linen--><rect fill="#FAF0E6" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FAF0E6;stroke-width:1.0;" width="76" x="1886" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="1896" y="741.9951">«Linen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1926" y="758.292"/><!--MD5=[a9b31ad16c0d071763803ff195b92e12]
+entity MOTIVATION--><rect fill="#EFEFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#EFEFFF;stroke-width:1.0;" width="129" x="1997.5" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="109" x="2007.5" y="741.9951">«MOTIVATION»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2064" y="758.292"/><!--MD5=[576b98bd6d21ce233c4db6ce3a8d0ea7]
+entity Magenta--><rect fill="#FF00FF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF00FF;stroke-width:1.0;" width="98" x="2162" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="78" x="2172" y="741.9951">«Magenta»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2213" y="758.292"/><!--MD5=[74ac50d938a1fbf8af85fcb953ea00a8]
+entity Maroon--><rect fill="#800000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#800000;stroke-width:1.0;" width="90" x="2295" y="719"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="70" x="2305" y="741.9951">«Maroon»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2342" y="758.292"/><!--MD5=[418788b2c27784806ad182a809343f38]
+entity MediumAquaMarine--><rect fill="#66CDAA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#66CDAA;stroke-width:1.0;" width="175" x="434.5" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="155" x="444.5" y="854.9951">«MediumAquaMarine»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="871.292"/><!--MD5=[e1cfa745184cdb1a48330f1726b55fec]
+entity MediumBlue--><rect fill="#0000CD" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#0000CD;stroke-width:1.0;" width="124" x="645" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="104" x="655" y="854.9951">«MediumBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="709" y="871.292"/><!--MD5=[304580987ddd44e7a17bb72abc065cef]
+entity MediumOrchid--><rect fill="#BA55D3" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#BA55D3;stroke-width:1.0;" width="138" x="804" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="814" y="854.9951">«MediumOrchid»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="875" y="871.292"/><!--MD5=[379b079d7dd3eb57540c46c9d0610ae3]
+entity MediumPurple--><rect fill="#9370D8" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#9370D8;stroke-width:1.0;" width="136" x="977" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="116" x="987" y="854.9951">«MediumPurple»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1047" y="871.292"/><!--MD5=[75bb7adcbd079905ae81514c6d0bd22a]
+entity MediumSeaGreen--><rect fill="#3CB371" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#3CB371;stroke-width:1.0;" width="162" x="1148" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="142" x="1158" y="854.9951">«MediumSeaGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1231" y="871.292"/><!--MD5=[59680b59dbc52efaf8ec38d1b4537f76]
+entity MediumSlateBlue--><rect fill="#7B68EE" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#7B68EE;stroke-width:1.0;" width="158" x="1345" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="138" x="1355" y="854.9951">«MediumSlateBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1426" y="871.292"/><!--MD5=[2e14da832cd7b223d543dc470da41d72]
+entity MediumSpringGreen--><rect fill="#00FA9A" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00FA9A;stroke-width:1.0;" width="180" x="1538" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="160" x="1548" y="854.9951">«MediumSpringGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1630" y="871.292"/><!--MD5=[2721ba03c2a828925c86c439bd5d573d]
+entity MediumTurquoise--><rect fill="#48D1CC" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#48D1CC;stroke-width:1.0;" width="162" x="1753" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="142" x="1763" y="854.9951">«MediumTurquoise»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1836" y="871.292"/><!--MD5=[1e7b1c0d6f6cb1effc2eb590bb85ea20]
+entity MediumVioletRed--><rect fill="#C71585" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#C71585;stroke-width:1.0;" width="160" x="1950" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="140" x="1960" y="854.9951">«MediumVioletRed»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2032" y="871.292"/><!--MD5=[e9fdd7cb41bbd8014b77be4e54ad3d29]
+entity MidnightBlue--><rect fill="#191970" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#191970;stroke-width:1.0;" width="128" x="2145" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="108" x="2155" y="854.9951">«MidnightBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2211" y="871.292"/><!--MD5=[93d14a95d37027e9b79623692dd0adb5]
+entity MintCream--><rect fill="#F5FFFA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F5FFFA;stroke-width:1.0;" width="112" x="2308" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="92" x="2318" y="854.9951">«MintCream»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2366" y="871.292"/><!--MD5=[2f095f0bb90a4290f7186c0dc068b316]
+entity MistyRose--><rect fill="#FFE4E1" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFE4E1;stroke-width:1.0;" width="108" x="2455" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="88" x="2465" y="854.9951">«MistyRose»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2511" y="871.292"/><!--MD5=[fd98cfd329829f9d8bc34eff22e672d8]
+entity Moccasin--><rect fill="#FFE4B5" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFE4B5;stroke-width:1.0;" width="102" x="2598" y="832"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="82" x="2608" y="854.9951">«Moccasin»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2651" y="871.292"/><!--MD5=[ac358128bffd6372e9f07474d007d43f]
+entity NavajoWhite--><rect fill="#FFDEAD" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFDEAD;stroke-width:1.0;" width="125" x="459.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="469.5" y="967.9951">«NavajoWhite»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="984.292"/><!--MD5=[12d13dbd48bad081a06fbde99436c0fd]
+entity Navy--><rect fill="#000080" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#000080;stroke-width:1.0;" width="73" x="619.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="53" x="629.5" y="967.9951">«Navy»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="658" y="984.292"/><!--MD5=[2958ce5daad605d969284a133b1677d8]
+entity OldLace--><rect fill="#FDF5E6" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FDF5E6;stroke-width:1.0;" width="94" x="728" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="738" y="967.9951">«OldLace»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="777" y="984.292"/><!--MD5=[0f6d874a7d99b5d0b04488219f1993a6]
+entity Olive--><rect fill="#808000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#808000;stroke-width:1.0;" width="72" x="857" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="52" x="867" y="967.9951">«Olive»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="895" y="984.292"/><!--MD5=[75cb51cf22a2f92d76b49503b97968c5]
+entity OliveDrab--><rect fill="#6B8E23" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#6B8E23;stroke-width:1.0;" width="105" x="964.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="974.5" y="967.9951">«OliveDrab»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1019" y="984.292"/><!--MD5=[4e68949957c53cf95148363e6b901cb1]
+entity Orange--><rect fill="#FFA500" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFA500;stroke-width:1.0;" width="89" x="1104.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="1114.5" y="967.9951">«Orange»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1151" y="984.292"/><!--MD5=[a284a809b204e42931941eb38ad43998]
+entity OrangeRed--><rect fill="#FF4500" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF4500;stroke-width:1.0;" width="117" x="1228.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="97" x="1238.5" y="967.9951">«OrangeRed»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1289" y="984.292"/><!--MD5=[643678fd1d3fa21adb475d83c52ae4cf]
+entity Orchid--><rect fill="#DA70D6" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#DA70D6;stroke-width:1.0;" width="83" x="1380.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="1390.5" y="967.9951">«Orchid»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1424" y="984.292"/><!--MD5=[bd255000f5dc01c251705c1d70332eab]
+entity PHYSICAL--><rect fill="#97FF97" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#97FF97;stroke-width:1.0;" width="107" x="1498.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="1508.5" y="967.9951">«PHYSICAL»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1554" y="984.292"/><!--MD5=[33b53bab4fe0996094c67c59075ca307]
+entity PaleGoldenRod--><rect fill="#EEE8AA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#EEE8AA;stroke-width:1.0;" width="144" x="1641" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="124" x="1651" y="967.9951">«PaleGoldenRod»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1715" y="984.292"/><!--MD5=[9f13c468931e08d5c7eb21bbfa3f1660]
+entity PaleGreen--><rect fill="#98FB98" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#98FB98;stroke-width:1.0;" width="109" x="1820.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="89" x="1830.5" y="967.9951">«PaleGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1877" y="984.292"/><!--MD5=[fc987aa693e515aaa8da294f73ec535e]
+entity PaleTurquoise--><rect fill="#AFEEEE" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#AFEEEE;stroke-width:1.0;" width="135" x="1964.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="1974.5" y="967.9951">«PaleTurquoise»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2034" y="984.292"/><!--MD5=[6b0f00fbc3f5ffd0ea48607a4ab7236c]
+entity PaleVioletRed--><rect fill="#D87093" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#D87093;stroke-width:1.0;" width="133" x="2134.5" y="945"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="113" x="2144.5" y="967.9951">«PaleVioletRed»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2203" y="984.292"/><!--MD5=[661c81dd051d0cd9d13f071dd464e8d8]
+entity PapayaWhip--><rect fill="#FFEFD5" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFEFD5;stroke-width:1.0;" width="122" x="461" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="471" y="1080.9951">«PapayaWhip»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="1097.292"/><!--MD5=[b0102c002d4504f4f2bd660307bc41d0]
+entity PeachPuff--><rect fill="#FFDAB9" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFDAB9;stroke-width:1.0;" width="105" x="618.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="628.5" y="1080.9951">«PeachPuff»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="673" y="1097.292"/><!--MD5=[7cf362e6d6bdd521c1f6236572f6a419]
+entity Peru--><rect fill="#CD853F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#CD853F;stroke-width:1.0;" width="69" x="758.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="49" x="768.5" y="1080.9951">«Peru»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="795" y="1097.292"/><!--MD5=[63616b8160bf86b05c174dc07814387d]
+entity Pink--><rect fill="#FFC0CB" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFC0CB;stroke-width:1.0;" width="66" x="863" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="46" x="873" y="1080.9951">«Pink»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="898" y="1097.292"/><!--MD5=[431d81c05590d72e6632948799574b57]
+entity Plum--><rect fill="#DDA0DD" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#DDA0DD;stroke-width:1.0;" width="71" x="964.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="51" x="974.5" y="1080.9951">«Plum»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1002" y="1097.292"/><!--MD5=[08c5f175425d629c1867444e7af2acfd]
+entity PowderBlue--><rect fill="#B0E0E6" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#B0E0E6;stroke-width:1.0;" width="120" x="1071" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="100" x="1081" y="1080.9951">«PowderBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1133" y="1097.292"/><!--MD5=[22eb2400314afa531f6b373b482c8bf4]
+entity Purple--><rect fill="#800080" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#800080;stroke-width:1.0;" width="81" x="1226.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="61" x="1236.5" y="1080.9951">«Purple»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1269" y="1097.292"/><!--MD5=[aa159adfb5981873c8dd6a33b674688c]
+entity Red--><rect fill="#FF0000" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF0000;stroke-width:1.0;" width="66" x="1343" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="46" x="1353" y="1080.9951">«Red»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1378" y="1097.292"/><!--MD5=[81d586d3b3c8d61f0e8ee99a97d7a621]
+entity RosyBrown--><rect fill="#BC8F8F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#BC8F8F;stroke-width:1.0;" width="116" x="1444" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="96" x="1454" y="1080.9951">«RosyBrown»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1504" y="1097.292"/><!--MD5=[23a5d50c7562687c5df4a54a3de987de]
+entity RoyalBlue--><rect fill="#4169E1" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#4169E1;stroke-width:1.0;" width="107" x="1595.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="1605.5" y="1080.9951">«RoyalBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1651" y="1097.292"/><!--MD5=[dc617f2e725ddb8675e5572b5ce6c7e3]
+entity STRATEGY--><rect fill="#F8E7C0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F8E7C0;stroke-width:1.0;" width="114" x="1738" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="94" x="1748" y="1080.9951">«STRATEGY»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1797" y="1097.292"/><!--MD5=[ffcf98e3856ae19ffdb031d16713f7db]
+entity SaddleBrown--><rect fill="#8B4513" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#8B4513;stroke-width:1.0;" width="129" x="1887.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="109" x="1897.5" y="1080.9951">«SaddleBrown»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1954" y="1097.292"/><!--MD5=[f60cdf8f73eee732e1cd7bffc2131a57]
+entity Salmon--><rect fill="#FA8072" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FA8072;stroke-width:1.0;" width="89" x="2051.5" y="1058"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="69" x="2061.5" y="1080.9951">«Salmon»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2098" y="1097.292"/><!--MD5=[d101a44fa397bc2d6d7168086a94681e]
+entity SandyBrown--><rect fill="#F4A460" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F4A460;stroke-width:1.0;" width="125" x="459.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="469.5" y="1193.9951">«SandyBrown»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="1210.292"/><!--MD5=[52acc0a7249da117529d3ebfbde8ef99]
+entity SeaGreen--><rect fill="#2E8B57" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#2E8B57;stroke-width:1.0;" width="107" x="619.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="629.5" y="1193.9951">«SeaGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="675" y="1210.292"/><!--MD5=[fc233c561f7b731d1085d986b2d8521b]
+entity SeaShell--><rect fill="#FFF5EE" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFF5EE;stroke-width:1.0;" width="97" x="761.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="77" x="771.5" y="1193.9951">«SeaShell»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="812" y="1210.292"/><!--MD5=[91f6b68c35ea2e560c2a39dc3e88c1ab]
+entity Sienna--><rect fill="#A0522D" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#A0522D;stroke-width:1.0;" width="85" x="893.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="65" x="903.5" y="1193.9951">«Sienna»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="938" y="1210.292"/><!--MD5=[e6e48a07b3ae57a25b5b19838cbaa8a5]
+entity Silver--><rect fill="#C0C0C0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#C0C0C0;stroke-width:1.0;" width="75" x="1013.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="55" x="1023.5" y="1193.9951">«Silver»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1053" y="1210.292"/><!--MD5=[abce26617d63be79dc458b972cae1c3d]
+entity SkyBlue--><rect fill="#87CEEB" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#87CEEB;stroke-width:1.0;" width="94" x="1124" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1134" y="1193.9951">«SkyBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1173" y="1210.292"/><!--MD5=[60ba128b67aa7bab62f17f9b4c6d9a90]
+entity SlateBlue--><rect fill="#6A5ACD" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#6A5ACD;stroke-width:1.0;" width="103" x="1253.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="1263.5" y="1193.9951">«SlateBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1307" y="1210.292"/><!--MD5=[e8ceb3cc9ac86eb392a73ed939420164]
+entity SlateGray--><rect fill="#708090" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#708090;stroke-width:1.0;" width="104" x="1392" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="84" x="1402" y="1193.9951">«SlateGray»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1446" y="1210.292"/><!--MD5=[9b6dbf8442111a703ae59448870bec10]
+entity SlateGrey--><rect fill="#708090" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#708090;stroke-width:1.0;" width="105" x="1531.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="1541.5" y="1193.9951">«SlateGrey»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1586" y="1210.292"/><!--MD5=[a76bb0e44b00dcfe85f35fd5f7726d72]
+entity Snow--><rect fill="#FFFAFA" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFAFA;stroke-width:1.0;" width="76" x="1672" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="56" x="1682" y="1193.9951">«Snow»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1712" y="1210.292"/><!--MD5=[1fe920e10229c6c17e30efbd0c85d908]
+entity SpringGreen--><rect fill="#00FF7F" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#00FF7F;stroke-width:1.0;" width="125" x="1783.5" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="1793.5" y="1193.9951">«SpringGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1848" y="1210.292"/><!--MD5=[f3b1f651c6953fa0f762af34a7aa80c7]
+entity SteelBlue--><rect fill="#4682B4" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#4682B4;stroke-width:1.0;" width="104" x="1944" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="84" x="1954" y="1193.9951">«SteelBlue»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1998" y="1210.292"/><!--MD5=[978f68c1adad82f0ca5989ac632b6b9d]
+entity TECHNOLOGY--><rect fill="#C9FFC9" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#C9FFC9;stroke-width:1.0;" width="138" x="2083" y="1171"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="2093" y="1193.9951">«TECHNOLOGY»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="2154" y="1210.292"/><!--MD5=[0bbeddf589ebdc78a9c1f984e5a59010]
+entity Tan--><rect fill="#D2B48C" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#D2B48C;stroke-width:1.0;" width="64" x="490" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="44" x="500" y="1306.9951">«Tan»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="524" y="1323.292"/><!--MD5=[2890ca2bba62414ccc1202b14ef4ed52]
+entity Teal--><rect fill="#008080" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#008080;stroke-width:1.0;" width="67" x="589.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="47" x="599.5" y="1306.9951">«Teal»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="625" y="1323.292"/><!--MD5=[695f4024aabf9e9e69b9849fc23484ac]
+entity Thistle--><rect fill="#D8BFD8" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#D8BFD8;stroke-width:1.0;" width="83" x="691.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="701.5" y="1306.9951">«Thistle»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="735" y="1323.292"/><!--MD5=[2411a22e9bbf81b5880125d995965a5d]
+entity Tomato--><rect fill="#FF6347" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FF6347;stroke-width:1.0;" width="91" x="809.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="71" x="819.5" y="1306.9951">«Tomato»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="857" y="1323.292"/><!--MD5=[ad50a8e33e24383d1eb8eb579b4485de]
+entity Turquoise--><rect fill="#40E0D0" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#40E0D0;stroke-width:1.0;" width="107" x="935.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="87" x="945.5" y="1306.9951">«Turquoise»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="991" y="1323.292"/><!--MD5=[422ac5b1a5d86efffa85ca843859b76d]
+entity Violet--><rect fill="#EE82EE" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#EE82EE;stroke-width:1.0;" width="77" x="1077.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="57" x="1087.5" y="1306.9951">«Violet»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1118" y="1323.292"/><!--MD5=[0882a23d9f8edf72ace4ee2096b1f1eb]
+entity Wheat--><rect fill="#F5DEB3" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F5DEB3;stroke-width:1.0;" width="83" x="1189.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="63" x="1199.5" y="1306.9951">«Wheat»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1233" y="1323.292"/><!--MD5=[a8aa9038ad0077a96287dbe13b510591]
+entity White--><rect fill="#FFFFFF" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFFFF;stroke-width:1.0;" width="78" x="1308" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="58" x="1318" y="1306.9951">«White»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1349" y="1323.292"/><!--MD5=[47a840371db50c0a571342b50d65be7e]
+entity WhiteSmoke--><rect fill="#F5F5F5" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#F5F5F5;stroke-width:1.0;" width="126" x="1421" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="106" x="1431" y="1306.9951">«WhiteSmoke»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1486" y="1323.292"/><!--MD5=[d934307d7583ab7540a85bf3269b7e38]
+entity Yellow--><rect fill="#FFFF00" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#FFFF00;stroke-width:1.0;" width="82" x="1582" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="62" x="1592" y="1306.9951">«Yellow»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1625" y="1323.292"/><!--MD5=[021430ea5dfc11642870a0d21be2234d]
+entity YellowGreen--><rect fill="#9ACD32" filter="url(#ffx8hjryol9pp)" height="52.5938" style="stroke:#9ACD32;stroke-width:1.0;" width="125" x="1699.5" y="1284"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="105" x="1709.5" y="1306.9951">«YellowGreen»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1764" y="1323.292"/><!--MD5=[83ca9799072fe9cd30df42a92f79fe4b]
+link 00ff00 to ff0000--><!--MD5=[9ae728d5d90dc33d52566ccb8337046a]
+link ff0000 to 0000ff--><!--MD5=[17839407908e5747baada8fa715a697a]
+link 00ff00 to 123456--><!--MD5=[d46b37d07ee07e560c34e806638c1056]
+link 123456 to 654321--><!--MD5=[a836f7edced09aef83b6a38cfba4520f]
+link 654321 to 165432--><!--MD5=[82256d85efb04dbb81f29659a0c998a8]
+link 123456 to ff22ff--><!--MD5=[0a9ff1156b7e1f3131c445149f16be01]
+link APPLICATION to AliceBlue--><!--MD5=[5a79a8ccdb74c666732cdd2130c47560]
+link AliceBlue to AntiqueWhite--><!--MD5=[cc13a96ec20bf471ece44615db62225c]
+link AntiqueWhite to Aqua--><!--MD5=[633a1467b536d24c4a2721c8664bf83a]
+link Aqua to Aquamarine--><!--MD5=[4b6abcbae68f9083a734f34ec530403c]
+link Aquamarine to Azure--><!--MD5=[d67f9d32d1b79f4ce4c1f40b43936523]
+link Azure to BUSINESS--><!--MD5=[c164544e91c42d5f0a223b65080688e4]
+link BUSINESS to Beige--><!--MD5=[8e0eefb7ffa5f25b7f113d2f4863607b]
+link Beige to Bisque--><!--MD5=[6f6ea74cad7b6c787cefcc16520006a3]
+link Bisque to Black--><!--MD5=[b0f0cab0c324cf65f78ff15fd34bdb09]
+link Black to BlanchedAlmond--><!--MD5=[44be6671353f2c434db3c926805d9f07]
+link BlanchedAlmond to Blue--><!--MD5=[65fd2692cf9c174208c30089ad55bd4a]
+link Blue to BlueViolet--><!--MD5=[14d9013b650b175075854cc88963915a]
+link APPLICATION to Brown--><!--MD5=[6ddaa071acc23907b34d3dcee0978825]
+link Brown to BurlyWood--><!--MD5=[7d9276c7ade9097288d99ddca0f7a186]
+link BurlyWood to CadetBlue--><!--MD5=[6cbd9cb5658010db8e7e2da7f48d7a51]
+link CadetBlue to Chartreuse--><!--MD5=[876292063bd493137af2b9348fe7266b]
+link Chartreuse to Chocolate--><!--MD5=[8483187d52cfe5271e402bd0b2bd710c]
+link Chocolate to Coral--><!--MD5=[e3b18eeebd87ca129c7ba880c98bd52e]
+link Coral to CornflowerBlue--><!--MD5=[af13e4095227fc4af07261c51d349fe4]
+link CornflowerBlue to Cornsilk--><!--MD5=[c8c13dc849cc09338897219337e4c441]
+link Cornsilk to Crimson--><!--MD5=[eacb320ef0c3eccb48acce585e3484d5]
+link Crimson to Cyan--><!--MD5=[4e2e1dac3c9aceda0b814b70bc2d5047]
+link Cyan to DarkBlue--><!--MD5=[f1ba5d6701a4d5a7d99bf4b4a113ca40]
+link DarkBlue to DarkCyan--><!--MD5=[67fc826929493148bb923e788979ec56]
+link DarkCyan to DarkGoldenRod--><!--MD5=[be9e2c3a12af8667ebfbdedae71a0389]
+link Brown to DarkGray--><!--MD5=[c9222060f0cdfba00ec4dbd68879be67]
+link DarkGray to DarkGreen--><!--MD5=[a796215695c1270fc827bac113118d04]
+link DarkGreen to DarkGrey--><!--MD5=[557efa99157c19880888cb6625f25b11]
+link DarkGrey to DarkKhaki--><!--MD5=[296dfb9c4159b86f1167410a57961e31]
+link DarkKhaki to DarkMagenta--><!--MD5=[9a842c31ed80a6363c4d7ebc22d1f923]
+link DarkMagenta to DarkOliveGreen--><!--MD5=[8be4b7b7b2dce1ec3a1ecfe3fc9c778c]
+link DarkOliveGreen to DarkOrchid--><!--MD5=[8942691bd027197686045bfab9058a8e]
+link DarkOrchid to DarkRed--><!--MD5=[ae87ce717bd760ecafafe094a619dcb4]
+link DarkRed to DarkSalmon--><!--MD5=[58f17524a147911cddd24b75210786fc]
+link DarkSalmon to DarkSeaGreen--><!--MD5=[ebbe7a578a9ef6b4453ef5187cb77577]
+link DarkSeaGreen to DarkSlateBlue--><!--MD5=[b88b1edb31d48323e07f23d5e2e4dd50]
+link DarkSlateBlue to DarkSlateGray--><!--MD5=[6329a2a4aa6b559084b955022ea1bf60]
+link DarkSlateGray to DarkSlateGrey--><!--MD5=[adf6a30a603dd52699fe31a3628d038b]
+link DarkGray to DarkTurquoise--><!--MD5=[21d408e852ba2f6d68bd8629a5dc7c39]
+link DarkTurquoise to DarkViolet--><!--MD5=[b8ad2ce2eb736959018c7cd34693f236]
+link DarkViolet to Darkorange--><!--MD5=[95889f02ef07ea6977f49588cdcff47a]
+link Darkorange to DeepPink--><!--MD5=[83c2c57eed21ea817e179f0d1f397cee]
+link DeepPink to DeepSkyBlue--><!--MD5=[6e735c350736350e30e9e1d5bb4a34f4]
+link DeepSkyBlue to DimGray--><!--MD5=[8503ddebc6b24b460b8419703d378da2]
+link DimGray to DimGrey--><!--MD5=[d10eb13e16ac49ed27cdc0143b72e201]
+link DimGrey to DodgerBlue--><!--MD5=[0a16967577e4d98ae52b74738414f95e]
+link DodgerBlue to FireBrick--><!--MD5=[892d920a16a4acfc32e955da35ede778]
+link FireBrick to FloralWhite--><!--MD5=[d8779aea68c8ee326d6a519894a253a4]
+link FloralWhite to ForestGreen--><!--MD5=[02a21b42a241491300cf9061442ee595]
+link ForestGreen to Fuchsia--><!--MD5=[f29236bd71cb93c247856b492ba28a8d]
+link Fuchsia to Gainsboro--><!--MD5=[65c28df832fdeeec69fa0d93ac0c3071]
+link DarkTurquoise to GhostWhite--><!--MD5=[44c6df5f0f6ff92c03e05ab84f7227f4]
+link GhostWhite to Gold--><!--MD5=[88a3d6c5c3542baef0d4362118413cc8]
+link Gold to GoldenRod--><!--MD5=[612a8d6a3bc2e1bccb819e9d7009bb9c]
+link GoldenRod to Gray--><!--MD5=[46d57a1c3a88b68c5889532716e02fc3]
+link Gray to Green--><!--MD5=[d7dd6d9306cbbcff97803ead4e41331a]
+link Green to GreenYellow--><!--MD5=[0a204785072cda54179960d921b661a1]
+link GreenYellow to Grey--><!--MD5=[17bc0d7b147e3027f7b8b4cb5125cb33]
+link Grey to HoneyDew--><!--MD5=[b9f4ae07b6d819984995e85cb6e59621]
+link HoneyDew to HotPink--><!--MD5=[2f01daee9453d212a006317c349bf6ff]
+link HotPink to IMPLEMENTATION--><!--MD5=[4fadf33d7eaca3875eb0e4b0531b0708]
+link IMPLEMENTATION to IndianRed--><!--MD5=[3817028e43ac2aca5c9c86952edb3e82]
+link IndianRed to Indigo--><!--MD5=[eb7b875d9bdce5a3596b812728ffce64]
+link Indigo to Ivory--><!--MD5=[8b4761837c6c82c5c04340e378b821e7]
+link GhostWhite to Khaki--><!--MD5=[57334329e4fb330d4d7dc5727a5d1360]
+link Khaki to Lavender--><!--MD5=[5714a3fecf6dc77b924efaaa91261b39]
+link Lavender to LavenderBlush--><!--MD5=[cf9446cbb7b2fc780a9593444c3a39b7]
+link LavenderBlush to LawnGreen--><!--MD5=[8e480bfbef3042ac5b42dc4a6cdd1675]
+link LawnGreen to LemonChiffon--><!--MD5=[e604877b8438ee424c83ab8cd2f4d7f1]
+link LemonChiffon to LightBlue--><!--MD5=[62e4c51a4cd13ec892ae4d1cb456b1a1]
+link LightBlue to LightCoral--><!--MD5=[8da8c3ae35be60e3fad5848b6fc24be7]
+link LightCoral to LightCyan--><!--MD5=[9112c326605825f36cf1f96a570a2f14]
+link LightCyan to LightGoldenRodYellow--><!--MD5=[16482d158ab5fde62adad0e38b2ff779]
+link LightGoldenRodYellow to LightGray--><!--MD5=[27a6ab38b6a8311fb964e9a766549bcf]
+link LightGray to LightGreen--><!--MD5=[a53bb580642296b08624136a457d060f]
+link LightGreen to LightGrey--><!--MD5=[597be0876600a4ad60dbabf91651f59c]
+link LightGrey to LightPink--><!--MD5=[63d475ee66dc785685d6cf8c222a2790]
+link Khaki to LightSalmon--><!--MD5=[2e43bfcd97a0af0f39107513e81c55eb]
+link LightSalmon to LightSeaGreen--><!--MD5=[3233df5d8fbb358d7663c229e9e0885b]
+link LightSeaGreen to LightSkyBlue--><!--MD5=[6d2431a79f0583f01d0a982af68190f5]
+link LightSkyBlue to LightSlateGray--><!--MD5=[32bc2b569fd72419a37ccddfe0d09fdd]
+link LightSlateGray to LightSlateGrey--><!--MD5=[a4097e2e0e141feec45c8b4ce7bb9c26]
+link LightSlateGrey to LightSteelBlue--><!--MD5=[a1bfbb78560c02fcae53b73d8a66b88f]
+link LightSteelBlue to LightYellow--><!--MD5=[f9b08029d911894c798c2a3c1e0d8506]
+link LightYellow to Lime--><!--MD5=[16c5e60d05c65d7306babed46168d7d2]
+link Lime to LimeGreen--><!--MD5=[b97f7cfddc01b80d2cb885e3dab11bdd]
+link LimeGreen to Linen--><!--MD5=[287a48039a1a583d5f718eb6c1401f92]
+link Linen to MOTIVATION--><!--MD5=[fb7227b5c9205aed4fd5d20b14cc6dae]
+link MOTIVATION to Magenta--><!--MD5=[89583c37933567f51bd78db4441f5b2d]
+link Magenta to Maroon--><!--MD5=[2d29b1d7b8c08ac123cea9e6da094f6a]
+link LightSalmon to MediumAquaMarine--><!--MD5=[b2387e26f29f22f4df2842f0c68a5205]
+link MediumAquaMarine to MediumBlue--><!--MD5=[00a6e3ca1edce4ffc0ba5550348f4999]
+link MediumBlue to MediumOrchid--><!--MD5=[f91ff8d52787d8dc7e6bf9225e46c85d]
+link MediumOrchid to MediumPurple--><!--MD5=[fc1a1182a5fd98e9c2aa40a44172f25b]
+link MediumPurple to MediumSeaGreen--><!--MD5=[339afcf2ab1647f5aa66c03b3905210e]
+link MediumSeaGreen to MediumSlateBlue--><!--MD5=[1ab0e95d8e4096dc9bf8f147dc4cea8e]
+link MediumSlateBlue to MediumSpringGreen--><!--MD5=[d414377a2a3cd9c69af8a458aafb608a]
+link MediumSpringGreen to MediumTurquoise--><!--MD5=[400961ef71b3ff74d020b1d7b9a8de88]
+link MediumTurquoise to MediumVioletRed--><!--MD5=[d9e70e55760ac41e92559457f034957e]
+link MediumVioletRed to MidnightBlue--><!--MD5=[2261e2e7b8e845dd76fbdc1403e94caf]
+link MidnightBlue to MintCream--><!--MD5=[5197238bffe1b58c6aa3fbabb036f8b2]
+link MintCream to MistyRose--><!--MD5=[b5e26fdd1151edaf39f1607aac989d89]
+link MistyRose to Moccasin--><!--MD5=[0acc4c3df38dfa0904e3c0beba0b0e60]
+link MediumAquaMarine to NavajoWhite--><!--MD5=[285a8505a674944bcc7998daab954c3b]
+link NavajoWhite to Navy--><!--MD5=[a367198bf33dfc07400d0ee53101ec70]
+link Navy to OldLace--><!--MD5=[4fdf5575346855b30c0370878cbe2931]
+link OldLace to Olive--><!--MD5=[c0013e6ea014efbd6f5a27a1aecb9888]
+link Olive to OliveDrab--><!--MD5=[b8b77680e21a58b019995ed84822a1c9]
+link OliveDrab to Orange--><!--MD5=[167a96f1893c44649e07b3b9294603f7]
+link Orange to OrangeRed--><!--MD5=[71fd078315319a96080375ec1c9f8cfa]
+link OrangeRed to Orchid--><!--MD5=[d4816e5a3e7b98852d8dca82f1b7b19f]
+link Orchid to PHYSICAL--><!--MD5=[6b5ddd4581af0ad17bc9a554e40775b7]
+link PHYSICAL to PaleGoldenRod--><!--MD5=[46b4f8c775e9067e6092fa2d5138e808]
+link PaleGoldenRod to PaleGreen--><!--MD5=[500438db9105b1f5e824e529b6af7d31]
+link PaleGreen to PaleTurquoise--><!--MD5=[c15483fd7335e958efffe965e1c220b5]
+link PaleTurquoise to PaleVioletRed--><!--MD5=[f47162ae8f7c43027377696ae9f2daf6]
+link NavajoWhite to PapayaWhip--><!--MD5=[8feb35e7495fdace5d1bfbac1c8c1a8c]
+link PapayaWhip to PeachPuff--><!--MD5=[f8d6ee05f8048a109142b090880a3494]
+link PeachPuff to Peru--><!--MD5=[3619965d3af7359fbc51397c7ff478b5]
+link Peru to Pink--><!--MD5=[358fb36cdca283167988110ceb3046f1]
+link Pink to Plum--><!--MD5=[61aa0310022798050b5d9fb1bbf1f9ae]
+link Plum to PowderBlue--><!--MD5=[4199f48c072efc7e7b1e335c12e69cee]
+link PowderBlue to Purple--><!--MD5=[e95fd1bbcfae1847c5b60a7bd41b9dd9]
+link Purple to Red--><!--MD5=[5ec8ffe06bc98b2cfce7d0d62c451229]
+link Red to RosyBrown--><!--MD5=[3078e8f5dbc809bfc61b0bce9c5fcbc2]
+link RosyBrown to RoyalBlue--><!--MD5=[2392753d83b72b40d5849519be015f6c]
+link RoyalBlue to STRATEGY--><!--MD5=[b113db9775d3665d83e9b0a453bb3289]
+link STRATEGY to SaddleBrown--><!--MD5=[c96410fb876b741dd08e030f9b7a2072]
+link SaddleBrown to Salmon--><!--MD5=[f7ed083ae23747e9e6821a33f539dfe2]
+link PapayaWhip to SandyBrown--><!--MD5=[682d379d692e3c0799197543a3f76827]
+link SandyBrown to SeaGreen--><!--MD5=[418671e4360cd6a39c65542dce645a1b]
+link SeaGreen to SeaShell--><!--MD5=[cbe4d81e79a79e6db58dfb67e24e3aac]
+link SeaShell to Sienna--><!--MD5=[3e657eb993fb5abfc3ad01ae7270c351]
+link Sienna to Silver--><!--MD5=[5cda48d6aca6cbc036c468113b0f776a]
+link Silver to SkyBlue--><!--MD5=[3e185f6f96c40786ff02dc7d5d1fe328]
+link SkyBlue to SlateBlue--><!--MD5=[4765e769702fbde3c482c5a96ac6ed8d]
+link SlateBlue to SlateGray--><!--MD5=[1c17448335c77941ff37fa0b3cd16689]
+link SlateGray to SlateGrey--><!--MD5=[f025ca5f807ebd8f774eaf66e8754c32]
+link SlateGrey to Snow--><!--MD5=[06ffe5dba81cb05f6c176d616dd65046]
+link Snow to SpringGreen--><!--MD5=[c83ec393576cf079cea4a0ad061c7d05]
+link SpringGreen to SteelBlue--><!--MD5=[51b2e8ea6375a2398bbf492c7f097c11]
+link SteelBlue to TECHNOLOGY--><!--MD5=[332d206bb618176fb18f2e096fa85dc7]
+link SandyBrown to Tan--><!--MD5=[8b322a8ca6accb6ba52ba1dd2472d60d]
+link Tan to Teal--><!--MD5=[ac02a39d2fb3e54a677b5e9bf93ac804]
+link Teal to Thistle--><!--MD5=[287c26e6c2616f628b47bd58ed7aafc5]
+link Thistle to Tomato--><!--MD5=[109e31b37956129255c1e6b0b93ecf64]
+link Tomato to Turquoise--><!--MD5=[f87d4bd05610813568c0ad746174868a]
+link Turquoise to Violet--><!--MD5=[c23f98b0b216187fe079a63324680d89]
+link Violet to Wheat--><!--MD5=[9cc9593fd6727e6f9edfeab4ec590bc0]
+link Wheat to White--><!--MD5=[e3345b481015c96c0acd868d9645bd07]
+link White to WhiteSmoke--><!--MD5=[3c91e2c6c0e11d7dc8346854f3a86fb7]
+link WhiteSmoke to Yellow--><!--MD5=[118b1aed54874ee0dfa580148fa61cdc]
+link Yellow to YellowGreen--><!--MD5=[bc52f0f7e1e36d908125978dd077712f]
+@startuml ColorsSimple
+
+
+!unquoted procedure $DrawColor($colour)
+
+    skinparam rectangle {
+            backgroundColor<<$colour>> $colour
+            borderColor<<$colour>> $colour
+            shadowing<<$colour>> true
+            BorderThickness<<$colour>> 1
+        }
+
+    rectangle $colour <<$colour>> as "<color:$colour></color>"
+
+!endprocedure
+
+package HexCodes {
+$DrawColor("00ff00")
+$DrawColor("ff0000")
+$DrawColor("0000ff")
+$DrawColor("123456")
+$DrawColor("654321")
+$DrawColor("165432")
+$DrawColor("ff22ff")
+}
+
+package Colours {
+$DrawColor("APPLICATION")
+$DrawColor("AliceBlue")
+$DrawColor("AntiqueWhite")
+$DrawColor("Aqua")
+$DrawColor("Aquamarine")
+$DrawColor("Azure")
+$DrawColor("BUSINESS")
+$DrawColor("Beige")
+$DrawColor("Bisque")
+$DrawColor("Black")
+$DrawColor("BlanchedAlmond")
+$DrawColor("Blue")
+$DrawColor("BlueViolet")
+$DrawColor("Brown")
+$DrawColor("BurlyWood")
+$DrawColor("CadetBlue")
+$DrawColor("Chartreuse")
+$DrawColor("Chocolate")
+$DrawColor("Coral")
+$DrawColor("CornflowerBlue")
+$DrawColor("Cornsilk")
+$DrawColor("Crimson")
+$DrawColor("Cyan")
+$DrawColor("DarkBlue")
+$DrawColor("DarkCyan")
+$DrawColor("DarkGoldenRod")
+$DrawColor("DarkGray")
+$DrawColor("DarkGreen")
+$DrawColor("DarkGrey")
+$DrawColor("DarkKhaki")
+$DrawColor("DarkMagenta")
+$DrawColor("DarkOliveGreen")
+$DrawColor("DarkOrchid")
+$DrawColor("DarkRed")
+$DrawColor("DarkSalmon")
+$DrawColor("DarkSeaGreen")
+$DrawColor("DarkSlateBlue")
+$DrawColor("DarkSlateGray")
+$DrawColor("DarkSlateGrey")
+$DrawColor("DarkTurquoise")
+$DrawColor("DarkViolet")
+$DrawColor("Darkorange")
+$DrawColor("DeepPink")
+$DrawColor("DeepSkyBlue")
+$DrawColor("DimGray")
+$DrawColor("DimGrey")
+$DrawColor("DodgerBlue")
+$DrawColor("FireBrick")
+$DrawColor("FloralWhite")
+$DrawColor("ForestGreen")
+$DrawColor("Fuchsia")
+$DrawColor("Gainsboro")
+$DrawColor("GhostWhite")
+$DrawColor("Gold")
+$DrawColor("GoldenRod")
+$DrawColor("Gray")
+$DrawColor("Green")
+$DrawColor("GreenYellow")
+$DrawColor("Grey")
+$DrawColor("HoneyDew")
+$DrawColor("HotPink")
+$DrawColor("IMPLEMENTATION")
+$DrawColor("IndianRed")
+$DrawColor("Indigo")
+$DrawColor("Ivory")
+$DrawColor("Khaki")
+$DrawColor("Lavender")
+$DrawColor("LavenderBlush")
+$DrawColor("LawnGreen")
+$DrawColor("LemonChiffon")
+$DrawColor("LightBlue")
+$DrawColor("LightCoral")
+$DrawColor("LightCyan")
+$DrawColor("LightGoldenRodYellow")
+$DrawColor("LightGray")
+$DrawColor("LightGreen")
+$DrawColor("LightGrey")
+$DrawColor("LightPink")
+$DrawColor("LightSalmon")
+$DrawColor("LightSeaGreen")
+$DrawColor("LightSkyBlue")
+$DrawColor("LightSlateGray")
+$DrawColor("LightSlateGrey")
+$DrawColor("LightSteelBlue")
+$DrawColor("LightYellow")
+$DrawColor("Lime")
+$DrawColor("LimeGreen")
+$DrawColor("Linen")
+$DrawColor("MOTIVATION")
+$DrawColor("Magenta")
+$DrawColor("Maroon")
+$DrawColor("MediumAquaMarine")
+$DrawColor("MediumBlue")
+$DrawColor("MediumOrchid")
+$DrawColor("MediumPurple")
+$DrawColor("MediumSeaGreen")
+$DrawColor("MediumSlateBlue")
+$DrawColor("MediumSpringGreen")
+$DrawColor("MediumTurquoise")
+$DrawColor("MediumVioletRed")
+$DrawColor("MidnightBlue")
+$DrawColor("MintCream")
+$DrawColor("MistyRose")
+$DrawColor("Moccasin")
+$DrawColor("NavajoWhite")
+$DrawColor("Navy")
+$DrawColor("OldLace")
+$DrawColor("Olive")
+$DrawColor("OliveDrab")
+$DrawColor("Orange")
+$DrawColor("OrangeRed")
+$DrawColor("Orchid")
+$DrawColor("PHYSICAL")
+$DrawColor("PaleGoldenRod")
+$DrawColor("PaleGreen")
+$DrawColor("PaleTurquoise")
+$DrawColor("PaleVioletRed")
+$DrawColor("PapayaWhip")
+$DrawColor("PeachPuff")
+$DrawColor("Peru")
+$DrawColor("Pink")
+$DrawColor("Plum")
+$DrawColor("PowderBlue")
+$DrawColor("Purple")
+$DrawColor("Red")
+$DrawColor("RosyBrown")
+$DrawColor("RoyalBlue")
+$DrawColor("STRATEGY")
+$DrawColor("SaddleBrown")
+$DrawColor("Salmon")
+$DrawColor("SandyBrown")
+$DrawColor("SeaGreen")
+$DrawColor("SeaShell")
+$DrawColor("Sienna")
+$DrawColor("Silver")
+$DrawColor("SkyBlue")
+$DrawColor("SlateBlue")
+$DrawColor("SlateGray")
+$DrawColor("SlateGrey")
+$DrawColor("Snow")
+$DrawColor("SpringGreen")
+$DrawColor("SteelBlue")
+$DrawColor("TECHNOLOGY")
+$DrawColor("Tan")
+$DrawColor("Teal")
+$DrawColor("Thistle")
+$DrawColor("Tomato")
+$DrawColor("Turquoise")
+$DrawColor("Violet")
+$DrawColor("Wheat")
+$DrawColor("White")
+$DrawColor("WhiteSmoke")
+$DrawColor("Yellow")
+$DrawColor("YellowGreen")
+
+}
+@enduml
+
+@startuml ColorsSimple
+
+
+
+package HexCodes {
+
+    skinparam rectangle {
+            backgroundColor<<00ff00>> 00ff00
+            borderColor<<00ff00>> 00ff00
+            shadowing<<00ff00>> true
+            BorderThickness<<00ff00>> 1
+        }
+
+    rectangle 00ff00 <<00ff00>> as "<color:00ff00></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<ff0000>> ff0000
+            borderColor<<ff0000>> ff0000
+            shadowing<<ff0000>> true
+            BorderThickness<<ff0000>> 1
+        }
+
+    rectangle ff0000 <<ff0000>> as "<color:ff0000></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<0000ff>> 0000ff
+            borderColor<<0000ff>> 0000ff
+            shadowing<<0000ff>> true
+            BorderThickness<<0000ff>> 1
+        }
+
+    rectangle 0000ff <<0000ff>> as "<color:0000ff></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<123456>> 123456
+            borderColor<<123456>> 123456
+            shadowing<<123456>> true
+            BorderThickness<<123456>> 1
+        }
+
+    rectangle 123456 <<123456>> as "<color:123456></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<654321>> 654321
+            borderColor<<654321>> 654321
+            shadowing<<654321>> true
+            BorderThickness<<654321>> 1
+        }
+
+    rectangle 654321 <<654321>> as "<color:654321></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<165432>> 165432
+            borderColor<<165432>> 165432
+            shadowing<<165432>> true
+            BorderThickness<<165432>> 1
+        }
+
+    rectangle 165432 <<165432>> as "<color:165432></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<ff22ff>> ff22ff
+            borderColor<<ff22ff>> ff22ff
+            shadowing<<ff22ff>> true
+            BorderThickness<<ff22ff>> 1
+        }
+
+    rectangle ff22ff <<ff22ff>> as "<color:ff22ff></color>"
+
+}
+
+package Colours {
+
+    skinparam rectangle {
+            backgroundColor<<APPLICATION>> APPLICATION
+            borderColor<<APPLICATION>> APPLICATION
+            shadowing<<APPLICATION>> true
+            BorderThickness<<APPLICATION>> 1
+        }
+
+    rectangle APPLICATION <<APPLICATION>> as "<color:APPLICATION></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<AliceBlue>> AliceBlue
+            borderColor<<AliceBlue>> AliceBlue
+            shadowing<<AliceBlue>> true
+            BorderThickness<<AliceBlue>> 1
+        }
+
+    rectangle AliceBlue <<AliceBlue>> as "<color:AliceBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<AntiqueWhite>> AntiqueWhite
+            borderColor<<AntiqueWhite>> AntiqueWhite
+            shadowing<<AntiqueWhite>> true
+            BorderThickness<<AntiqueWhite>> 1
+        }
+
+    rectangle AntiqueWhite <<AntiqueWhite>> as "<color:AntiqueWhite></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Aqua>> Aqua
+            borderColor<<Aqua>> Aqua
+            shadowing<<Aqua>> true
+            BorderThickness<<Aqua>> 1
+        }
+
+    rectangle Aqua <<Aqua>> as "<color:Aqua></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Aquamarine>> Aquamarine
+            borderColor<<Aquamarine>> Aquamarine
+            shadowing<<Aquamarine>> true
+            BorderThickness<<Aquamarine>> 1
+        }
+
+    rectangle Aquamarine <<Aquamarine>> as "<color:Aquamarine></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Azure>> Azure
+            borderColor<<Azure>> Azure
+            shadowing<<Azure>> true
+            BorderThickness<<Azure>> 1
+        }
+
+    rectangle Azure <<Azure>> as "<color:Azure></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<BUSINESS>> BUSINESS
+            borderColor<<BUSINESS>> BUSINESS
+            shadowing<<BUSINESS>> true
+            BorderThickness<<BUSINESS>> 1
+        }
+
+    rectangle BUSINESS <<BUSINESS>> as "<color:BUSINESS></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Beige>> Beige
+            borderColor<<Beige>> Beige
+            shadowing<<Beige>> true
+            BorderThickness<<Beige>> 1
+        }
+
+    rectangle Beige <<Beige>> as "<color:Beige></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Bisque>> Bisque
+            borderColor<<Bisque>> Bisque
+            shadowing<<Bisque>> true
+            BorderThickness<<Bisque>> 1
+        }
+
+    rectangle Bisque <<Bisque>> as "<color:Bisque></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Black>> Black
+            borderColor<<Black>> Black
+            shadowing<<Black>> true
+            BorderThickness<<Black>> 1
+        }
+
+    rectangle Black <<Black>> as "<color:Black></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<BlanchedAlmond>> BlanchedAlmond
+            borderColor<<BlanchedAlmond>> BlanchedAlmond
+            shadowing<<BlanchedAlmond>> true
+            BorderThickness<<BlanchedAlmond>> 1
+        }
+
+    rectangle BlanchedAlmond <<BlanchedAlmond>> as "<color:BlanchedAlmond></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Blue>> Blue
+            borderColor<<Blue>> Blue
+            shadowing<<Blue>> true
+            BorderThickness<<Blue>> 1
+        }
+
+    rectangle Blue <<Blue>> as "<color:Blue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<BlueViolet>> BlueViolet
+            borderColor<<BlueViolet>> BlueViolet
+            shadowing<<BlueViolet>> true
+            BorderThickness<<BlueViolet>> 1
+        }
+
+    rectangle BlueViolet <<BlueViolet>> as "<color:BlueViolet></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Brown>> Brown
+            borderColor<<Brown>> Brown
+            shadowing<<Brown>> true
+            BorderThickness<<Brown>> 1
+        }
+
+    rectangle Brown <<Brown>> as "<color:Brown></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<BurlyWood>> BurlyWood
+            borderColor<<BurlyWood>> BurlyWood
+            shadowing<<BurlyWood>> true
+            BorderThickness<<BurlyWood>> 1
+        }
+
+    rectangle BurlyWood <<BurlyWood>> as "<color:BurlyWood></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<CadetBlue>> CadetBlue
+            borderColor<<CadetBlue>> CadetBlue
+            shadowing<<CadetBlue>> true
+            BorderThickness<<CadetBlue>> 1
+        }
+
+    rectangle CadetBlue <<CadetBlue>> as "<color:CadetBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Chartreuse>> Chartreuse
+            borderColor<<Chartreuse>> Chartreuse
+            shadowing<<Chartreuse>> true
+            BorderThickness<<Chartreuse>> 1
+        }
+
+    rectangle Chartreuse <<Chartreuse>> as "<color:Chartreuse></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Chocolate>> Chocolate
+            borderColor<<Chocolate>> Chocolate
+            shadowing<<Chocolate>> true
+            BorderThickness<<Chocolate>> 1
+        }
+
+    rectangle Chocolate <<Chocolate>> as "<color:Chocolate></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Coral>> Coral
+            borderColor<<Coral>> Coral
+            shadowing<<Coral>> true
+            BorderThickness<<Coral>> 1
+        }
+
+    rectangle Coral <<Coral>> as "<color:Coral></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<CornflowerBlue>> CornflowerBlue
+            borderColor<<CornflowerBlue>> CornflowerBlue
+            shadowing<<CornflowerBlue>> true
+            BorderThickness<<CornflowerBlue>> 1
+        }
+
+    rectangle CornflowerBlue <<CornflowerBlue>> as "<color:CornflowerBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Cornsilk>> Cornsilk
+            borderColor<<Cornsilk>> Cornsilk
+            shadowing<<Cornsilk>> true
+            BorderThickness<<Cornsilk>> 1
+        }
+
+    rectangle Cornsilk <<Cornsilk>> as "<color:Cornsilk></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Crimson>> Crimson
+            borderColor<<Crimson>> Crimson
+            shadowing<<Crimson>> true
+            BorderThickness<<Crimson>> 1
+        }
+
+    rectangle Crimson <<Crimson>> as "<color:Crimson></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Cyan>> Cyan
+            borderColor<<Cyan>> Cyan
+            shadowing<<Cyan>> true
+            BorderThickness<<Cyan>> 1
+        }
+
+    rectangle Cyan <<Cyan>> as "<color:Cyan></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkBlue>> DarkBlue
+            borderColor<<DarkBlue>> DarkBlue
+            shadowing<<DarkBlue>> true
+            BorderThickness<<DarkBlue>> 1
+        }
+
+    rectangle DarkBlue <<DarkBlue>> as "<color:DarkBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkCyan>> DarkCyan
+            borderColor<<DarkCyan>> DarkCyan
+            shadowing<<DarkCyan>> true
+            BorderThickness<<DarkCyan>> 1
+        }
+
+    rectangle DarkCyan <<DarkCyan>> as "<color:DarkCyan></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkGoldenRod>> DarkGoldenRod
+            borderColor<<DarkGoldenRod>> DarkGoldenRod
+            shadowing<<DarkGoldenRod>> true
+            BorderThickness<<DarkGoldenRod>> 1
+        }
+
+    rectangle DarkGoldenRod <<DarkGoldenRod>> as "<color:DarkGoldenRod></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkGray>> DarkGray
+            borderColor<<DarkGray>> DarkGray
+            shadowing<<DarkGray>> true
+            BorderThickness<<DarkGray>> 1
+        }
+
+    rectangle DarkGray <<DarkGray>> as "<color:DarkGray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkGreen>> DarkGreen
+            borderColor<<DarkGreen>> DarkGreen
+            shadowing<<DarkGreen>> true
+            BorderThickness<<DarkGreen>> 1
+        }
+
+    rectangle DarkGreen <<DarkGreen>> as "<color:DarkGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkGrey>> DarkGrey
+            borderColor<<DarkGrey>> DarkGrey
+            shadowing<<DarkGrey>> true
+            BorderThickness<<DarkGrey>> 1
+        }
+
+    rectangle DarkGrey <<DarkGrey>> as "<color:DarkGrey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkKhaki>> DarkKhaki
+            borderColor<<DarkKhaki>> DarkKhaki
+            shadowing<<DarkKhaki>> true
+            BorderThickness<<DarkKhaki>> 1
+        }
+
+    rectangle DarkKhaki <<DarkKhaki>> as "<color:DarkKhaki></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkMagenta>> DarkMagenta
+            borderColor<<DarkMagenta>> DarkMagenta
+            shadowing<<DarkMagenta>> true
+            BorderThickness<<DarkMagenta>> 1
+        }
+
+    rectangle DarkMagenta <<DarkMagenta>> as "<color:DarkMagenta></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkOliveGreen>> DarkOliveGreen
+            borderColor<<DarkOliveGreen>> DarkOliveGreen
+            shadowing<<DarkOliveGreen>> true
+            BorderThickness<<DarkOliveGreen>> 1
+        }
+
+    rectangle DarkOliveGreen <<DarkOliveGreen>> as "<color:DarkOliveGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkOrchid>> DarkOrchid
+            borderColor<<DarkOrchid>> DarkOrchid
+            shadowing<<DarkOrchid>> true
+            BorderThickness<<DarkOrchid>> 1
+        }
+
+    rectangle DarkOrchid <<DarkOrchid>> as "<color:DarkOrchid></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkRed>> DarkRed
+            borderColor<<DarkRed>> DarkRed
+            shadowing<<DarkRed>> true
+            BorderThickness<<DarkRed>> 1
+        }
+
+    rectangle DarkRed <<DarkRed>> as "<color:DarkRed></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkSalmon>> DarkSalmon
+            borderColor<<DarkSalmon>> DarkSalmon
+            shadowing<<DarkSalmon>> true
+            BorderThickness<<DarkSalmon>> 1
+        }
+
+    rectangle DarkSalmon <<DarkSalmon>> as "<color:DarkSalmon></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkSeaGreen>> DarkSeaGreen
+            borderColor<<DarkSeaGreen>> DarkSeaGreen
+            shadowing<<DarkSeaGreen>> true
+            BorderThickness<<DarkSeaGreen>> 1
+        }
+
+    rectangle DarkSeaGreen <<DarkSeaGreen>> as "<color:DarkSeaGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkSlateBlue>> DarkSlateBlue
+            borderColor<<DarkSlateBlue>> DarkSlateBlue
+            shadowing<<DarkSlateBlue>> true
+            BorderThickness<<DarkSlateBlue>> 1
+        }
+
+    rectangle DarkSlateBlue <<DarkSlateBlue>> as "<color:DarkSlateBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkSlateGray>> DarkSlateGray
+            borderColor<<DarkSlateGray>> DarkSlateGray
+            shadowing<<DarkSlateGray>> true
+            BorderThickness<<DarkSlateGray>> 1
+        }
+
+    rectangle DarkSlateGray <<DarkSlateGray>> as "<color:DarkSlateGray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkSlateGrey>> DarkSlateGrey
+            borderColor<<DarkSlateGrey>> DarkSlateGrey
+            shadowing<<DarkSlateGrey>> true
+            BorderThickness<<DarkSlateGrey>> 1
+        }
+
+    rectangle DarkSlateGrey <<DarkSlateGrey>> as "<color:DarkSlateGrey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkTurquoise>> DarkTurquoise
+            borderColor<<DarkTurquoise>> DarkTurquoise
+            shadowing<<DarkTurquoise>> true
+            BorderThickness<<DarkTurquoise>> 1
+        }
+
+    rectangle DarkTurquoise <<DarkTurquoise>> as "<color:DarkTurquoise></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DarkViolet>> DarkViolet
+            borderColor<<DarkViolet>> DarkViolet
+            shadowing<<DarkViolet>> true
+            BorderThickness<<DarkViolet>> 1
+        }
+
+    rectangle DarkViolet <<DarkViolet>> as "<color:DarkViolet></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Darkorange>> Darkorange
+            borderColor<<Darkorange>> Darkorange
+            shadowing<<Darkorange>> true
+            BorderThickness<<Darkorange>> 1
+        }
+
+    rectangle Darkorange <<Darkorange>> as "<color:Darkorange></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DeepPink>> DeepPink
+            borderColor<<DeepPink>> DeepPink
+            shadowing<<DeepPink>> true
+            BorderThickness<<DeepPink>> 1
+        }
+
+    rectangle DeepPink <<DeepPink>> as "<color:DeepPink></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DeepSkyBlue>> DeepSkyBlue
+            borderColor<<DeepSkyBlue>> DeepSkyBlue
+            shadowing<<DeepSkyBlue>> true
+            BorderThickness<<DeepSkyBlue>> 1
+        }
+
+    rectangle DeepSkyBlue <<DeepSkyBlue>> as "<color:DeepSkyBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DimGray>> DimGray
+            borderColor<<DimGray>> DimGray
+            shadowing<<DimGray>> true
+            BorderThickness<<DimGray>> 1
+        }
+
+    rectangle DimGray <<DimGray>> as "<color:DimGray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DimGrey>> DimGrey
+            borderColor<<DimGrey>> DimGrey
+            shadowing<<DimGrey>> true
+            BorderThickness<<DimGrey>> 1
+        }
+
+    rectangle DimGrey <<DimGrey>> as "<color:DimGrey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<DodgerBlue>> DodgerBlue
+            borderColor<<DodgerBlue>> DodgerBlue
+            shadowing<<DodgerBlue>> true
+            BorderThickness<<DodgerBlue>> 1
+        }
+
+    rectangle DodgerBlue <<DodgerBlue>> as "<color:DodgerBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<FireBrick>> FireBrick
+            borderColor<<FireBrick>> FireBrick
+            shadowing<<FireBrick>> true
+            BorderThickness<<FireBrick>> 1
+        }
+
+    rectangle FireBrick <<FireBrick>> as "<color:FireBrick></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<FloralWhite>> FloralWhite
+            borderColor<<FloralWhite>> FloralWhite
+            shadowing<<FloralWhite>> true
+            BorderThickness<<FloralWhite>> 1
+        }
+
+    rectangle FloralWhite <<FloralWhite>> as "<color:FloralWhite></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<ForestGreen>> ForestGreen
+            borderColor<<ForestGreen>> ForestGreen
+            shadowing<<ForestGreen>> true
+            BorderThickness<<ForestGreen>> 1
+        }
+
+    rectangle ForestGreen <<ForestGreen>> as "<color:ForestGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Fuchsia>> Fuchsia
+            borderColor<<Fuchsia>> Fuchsia
+            shadowing<<Fuchsia>> true
+            BorderThickness<<Fuchsia>> 1
+        }
+
+    rectangle Fuchsia <<Fuchsia>> as "<color:Fuchsia></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Gainsboro>> Gainsboro
+            borderColor<<Gainsboro>> Gainsboro
+            shadowing<<Gainsboro>> true
+            BorderThickness<<Gainsboro>> 1
+        }
+
+    rectangle Gainsboro <<Gainsboro>> as "<color:Gainsboro></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<GhostWhite>> GhostWhite
+            borderColor<<GhostWhite>> GhostWhite
+            shadowing<<GhostWhite>> true
+            BorderThickness<<GhostWhite>> 1
+        }
+
+    rectangle GhostWhite <<GhostWhite>> as "<color:GhostWhite></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Gold>> Gold
+            borderColor<<Gold>> Gold
+            shadowing<<Gold>> true
+            BorderThickness<<Gold>> 1
+        }
+
+    rectangle Gold <<Gold>> as "<color:Gold></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<GoldenRod>> GoldenRod
+            borderColor<<GoldenRod>> GoldenRod
+            shadowing<<GoldenRod>> true
+            BorderThickness<<GoldenRod>> 1
+        }
+
+    rectangle GoldenRod <<GoldenRod>> as "<color:GoldenRod></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Gray>> Gray
+            borderColor<<Gray>> Gray
+            shadowing<<Gray>> true
+            BorderThickness<<Gray>> 1
+        }
+
+    rectangle Gray <<Gray>> as "<color:Gray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Green>> Green
+            borderColor<<Green>> Green
+            shadowing<<Green>> true
+            BorderThickness<<Green>> 1
+        }
+
+    rectangle Green <<Green>> as "<color:Green></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<GreenYellow>> GreenYellow
+            borderColor<<GreenYellow>> GreenYellow
+            shadowing<<GreenYellow>> true
+            BorderThickness<<GreenYellow>> 1
+        }
+
+    rectangle GreenYellow <<GreenYellow>> as "<color:GreenYellow></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Grey>> Grey
+            borderColor<<Grey>> Grey
+            shadowing<<Grey>> true
+            BorderThickness<<Grey>> 1
+        }
+
+    rectangle Grey <<Grey>> as "<color:Grey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<HoneyDew>> HoneyDew
+            borderColor<<HoneyDew>> HoneyDew
+            shadowing<<HoneyDew>> true
+            BorderThickness<<HoneyDew>> 1
+        }
+
+    rectangle HoneyDew <<HoneyDew>> as "<color:HoneyDew></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<HotPink>> HotPink
+            borderColor<<HotPink>> HotPink
+            shadowing<<HotPink>> true
+            BorderThickness<<HotPink>> 1
+        }
+
+    rectangle HotPink <<HotPink>> as "<color:HotPink></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<IMPLEMENTATION>> IMPLEMENTATION
+            borderColor<<IMPLEMENTATION>> IMPLEMENTATION
+            shadowing<<IMPLEMENTATION>> true
+            BorderThickness<<IMPLEMENTATION>> 1
+        }
+
+    rectangle IMPLEMENTATION <<IMPLEMENTATION>> as "<color:IMPLEMENTATION></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<IndianRed>> IndianRed
+            borderColor<<IndianRed>> IndianRed
+            shadowing<<IndianRed>> true
+            BorderThickness<<IndianRed>> 1
+        }
+
+    rectangle IndianRed <<IndianRed>> as "<color:IndianRed></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Indigo>> Indigo
+            borderColor<<Indigo>> Indigo
+            shadowing<<Indigo>> true
+            BorderThickness<<Indigo>> 1
+        }
+
+    rectangle Indigo <<Indigo>> as "<color:Indigo></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Ivory>> Ivory
+            borderColor<<Ivory>> Ivory
+            shadowing<<Ivory>> true
+            BorderThickness<<Ivory>> 1
+        }
+
+    rectangle Ivory <<Ivory>> as "<color:Ivory></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Khaki>> Khaki
+            borderColor<<Khaki>> Khaki
+            shadowing<<Khaki>> true
+            BorderThickness<<Khaki>> 1
+        }
+
+    rectangle Khaki <<Khaki>> as "<color:Khaki></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Lavender>> Lavender
+            borderColor<<Lavender>> Lavender
+            shadowing<<Lavender>> true
+            BorderThickness<<Lavender>> 1
+        }
+
+    rectangle Lavender <<Lavender>> as "<color:Lavender></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LavenderBlush>> LavenderBlush
+            borderColor<<LavenderBlush>> LavenderBlush
+            shadowing<<LavenderBlush>> true
+            BorderThickness<<LavenderBlush>> 1
+        }
+
+    rectangle LavenderBlush <<LavenderBlush>> as "<color:LavenderBlush></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LawnGreen>> LawnGreen
+            borderColor<<LawnGreen>> LawnGreen
+            shadowing<<LawnGreen>> true
+            BorderThickness<<LawnGreen>> 1
+        }
+
+    rectangle LawnGreen <<LawnGreen>> as "<color:LawnGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LemonChiffon>> LemonChiffon
+            borderColor<<LemonChiffon>> LemonChiffon
+            shadowing<<LemonChiffon>> true
+            BorderThickness<<LemonChiffon>> 1
+        }
+
+    rectangle LemonChiffon <<LemonChiffon>> as "<color:LemonChiffon></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightBlue>> LightBlue
+            borderColor<<LightBlue>> LightBlue
+            shadowing<<LightBlue>> true
+            BorderThickness<<LightBlue>> 1
+        }
+
+    rectangle LightBlue <<LightBlue>> as "<color:LightBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightCoral>> LightCoral
+            borderColor<<LightCoral>> LightCoral
+            shadowing<<LightCoral>> true
+            BorderThickness<<LightCoral>> 1
+        }
+
+    rectangle LightCoral <<LightCoral>> as "<color:LightCoral></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightCyan>> LightCyan
+            borderColor<<LightCyan>> LightCyan
+            shadowing<<LightCyan>> true
+            BorderThickness<<LightCyan>> 1
+        }
+
+    rectangle LightCyan <<LightCyan>> as "<color:LightCyan></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightGoldenRodYellow>> LightGoldenRodYellow
+            borderColor<<LightGoldenRodYellow>> LightGoldenRodYellow
+            shadowing<<LightGoldenRodYellow>> true
+            BorderThickness<<LightGoldenRodYellow>> 1
+        }
+
+    rectangle LightGoldenRodYellow <<LightGoldenRodYellow>> as "<color:LightGoldenRodYellow></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightGray>> LightGray
+            borderColor<<LightGray>> LightGray
+            shadowing<<LightGray>> true
+            BorderThickness<<LightGray>> 1
+        }
+
+    rectangle LightGray <<LightGray>> as "<color:LightGray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightGreen>> LightGreen
+            borderColor<<LightGreen>> LightGreen
+            shadowing<<LightGreen>> true
+            BorderThickness<<LightGreen>> 1
+        }
+
+    rectangle LightGreen <<LightGreen>> as "<color:LightGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightGrey>> LightGrey
+            borderColor<<LightGrey>> LightGrey
+            shadowing<<LightGrey>> true
+            BorderThickness<<LightGrey>> 1
+        }
+
+    rectangle LightGrey <<LightGrey>> as "<color:LightGrey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightPink>> LightPink
+            borderColor<<LightPink>> LightPink
+            shadowing<<LightPink>> true
+            BorderThickness<<LightPink>> 1
+        }
+
+    rectangle LightPink <<LightPink>> as "<color:LightPink></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightSalmon>> LightSalmon
+            borderColor<<LightSalmon>> LightSalmon
+            shadowing<<LightSalmon>> true
+            BorderThickness<<LightSalmon>> 1
+        }
+
+    rectangle LightSalmon <<LightSalmon>> as "<color:LightSalmon></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightSeaGreen>> LightSeaGreen
+            borderColor<<LightSeaGreen>> LightSeaGreen
+            shadowing<<LightSeaGreen>> true
+            BorderThickness<<LightSeaGreen>> 1
+        }
+
+    rectangle LightSeaGreen <<LightSeaGreen>> as "<color:LightSeaGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightSkyBlue>> LightSkyBlue
+            borderColor<<LightSkyBlue>> LightSkyBlue
+            shadowing<<LightSkyBlue>> true
+            BorderThickness<<LightSkyBlue>> 1
+        }
+
+    rectangle LightSkyBlue <<LightSkyBlue>> as "<color:LightSkyBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightSlateGray>> LightSlateGray
+            borderColor<<LightSlateGray>> LightSlateGray
+            shadowing<<LightSlateGray>> true
+            BorderThickness<<LightSlateGray>> 1
+        }
+
+    rectangle LightSlateGray <<LightSlateGray>> as "<color:LightSlateGray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightSlateGrey>> LightSlateGrey
+            borderColor<<LightSlateGrey>> LightSlateGrey
+            shadowing<<LightSlateGrey>> true
+            BorderThickness<<LightSlateGrey>> 1
+        }
+
+    rectangle LightSlateGrey <<LightSlateGrey>> as "<color:LightSlateGrey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightSteelBlue>> LightSteelBlue
+            borderColor<<LightSteelBlue>> LightSteelBlue
+            shadowing<<LightSteelBlue>> true
+            BorderThickness<<LightSteelBlue>> 1
+        }
+
+    rectangle LightSteelBlue <<LightSteelBlue>> as "<color:LightSteelBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LightYellow>> LightYellow
+            borderColor<<LightYellow>> LightYellow
+            shadowing<<LightYellow>> true
+            BorderThickness<<LightYellow>> 1
+        }
+
+    rectangle LightYellow <<LightYellow>> as "<color:LightYellow></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Lime>> Lime
+            borderColor<<Lime>> Lime
+            shadowing<<Lime>> true
+            BorderThickness<<Lime>> 1
+        }
+
+    rectangle Lime <<Lime>> as "<color:Lime></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<LimeGreen>> LimeGreen
+            borderColor<<LimeGreen>> LimeGreen
+            shadowing<<LimeGreen>> true
+            BorderThickness<<LimeGreen>> 1
+        }
+
+    rectangle LimeGreen <<LimeGreen>> as "<color:LimeGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Linen>> Linen
+            borderColor<<Linen>> Linen
+            shadowing<<Linen>> true
+            BorderThickness<<Linen>> 1
+        }
+
+    rectangle Linen <<Linen>> as "<color:Linen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MOTIVATION>> MOTIVATION
+            borderColor<<MOTIVATION>> MOTIVATION
+            shadowing<<MOTIVATION>> true
+            BorderThickness<<MOTIVATION>> 1
+        }
+
+    rectangle MOTIVATION <<MOTIVATION>> as "<color:MOTIVATION></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Magenta>> Magenta
+            borderColor<<Magenta>> Magenta
+            shadowing<<Magenta>> true
+            BorderThickness<<Magenta>> 1
+        }
+
+    rectangle Magenta <<Magenta>> as "<color:Magenta></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Maroon>> Maroon
+            borderColor<<Maroon>> Maroon
+            shadowing<<Maroon>> true
+            BorderThickness<<Maroon>> 1
+        }
+
+    rectangle Maroon <<Maroon>> as "<color:Maroon></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumAquaMarine>> MediumAquaMarine
+            borderColor<<MediumAquaMarine>> MediumAquaMarine
+            shadowing<<MediumAquaMarine>> true
+            BorderThickness<<MediumAquaMarine>> 1
+        }
+
+    rectangle MediumAquaMarine <<MediumAquaMarine>> as "<color:MediumAquaMarine></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumBlue>> MediumBlue
+            borderColor<<MediumBlue>> MediumBlue
+            shadowing<<MediumBlue>> true
+            BorderThickness<<MediumBlue>> 1
+        }
+
+    rectangle MediumBlue <<MediumBlue>> as "<color:MediumBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumOrchid>> MediumOrchid
+            borderColor<<MediumOrchid>> MediumOrchid
+            shadowing<<MediumOrchid>> true
+            BorderThickness<<MediumOrchid>> 1
+        }
+
+    rectangle MediumOrchid <<MediumOrchid>> as "<color:MediumOrchid></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumPurple>> MediumPurple
+            borderColor<<MediumPurple>> MediumPurple
+            shadowing<<MediumPurple>> true
+            BorderThickness<<MediumPurple>> 1
+        }
+
+    rectangle MediumPurple <<MediumPurple>> as "<color:MediumPurple></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumSeaGreen>> MediumSeaGreen
+            borderColor<<MediumSeaGreen>> MediumSeaGreen
+            shadowing<<MediumSeaGreen>> true
+            BorderThickness<<MediumSeaGreen>> 1
+        }
+
+    rectangle MediumSeaGreen <<MediumSeaGreen>> as "<color:MediumSeaGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumSlateBlue>> MediumSlateBlue
+            borderColor<<MediumSlateBlue>> MediumSlateBlue
+            shadowing<<MediumSlateBlue>> true
+            BorderThickness<<MediumSlateBlue>> 1
+        }
+
+    rectangle MediumSlateBlue <<MediumSlateBlue>> as "<color:MediumSlateBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumSpringGreen>> MediumSpringGreen
+            borderColor<<MediumSpringGreen>> MediumSpringGreen
+            shadowing<<MediumSpringGreen>> true
+            BorderThickness<<MediumSpringGreen>> 1
+        }
+
+    rectangle MediumSpringGreen <<MediumSpringGreen>> as "<color:MediumSpringGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumTurquoise>> MediumTurquoise
+            borderColor<<MediumTurquoise>> MediumTurquoise
+            shadowing<<MediumTurquoise>> true
+            BorderThickness<<MediumTurquoise>> 1
+        }
+
+    rectangle MediumTurquoise <<MediumTurquoise>> as "<color:MediumTurquoise></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MediumVioletRed>> MediumVioletRed
+            borderColor<<MediumVioletRed>> MediumVioletRed
+            shadowing<<MediumVioletRed>> true
+            BorderThickness<<MediumVioletRed>> 1
+        }
+
+    rectangle MediumVioletRed <<MediumVioletRed>> as "<color:MediumVioletRed></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MidnightBlue>> MidnightBlue
+            borderColor<<MidnightBlue>> MidnightBlue
+            shadowing<<MidnightBlue>> true
+            BorderThickness<<MidnightBlue>> 1
+        }
+
+    rectangle MidnightBlue <<MidnightBlue>> as "<color:MidnightBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MintCream>> MintCream
+            borderColor<<MintCream>> MintCream
+            shadowing<<MintCream>> true
+            BorderThickness<<MintCream>> 1
+        }
+
+    rectangle MintCream <<MintCream>> as "<color:MintCream></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<MistyRose>> MistyRose
+            borderColor<<MistyRose>> MistyRose
+            shadowing<<MistyRose>> true
+            BorderThickness<<MistyRose>> 1
+        }
+
+    rectangle MistyRose <<MistyRose>> as "<color:MistyRose></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Moccasin>> Moccasin
+            borderColor<<Moccasin>> Moccasin
+            shadowing<<Moccasin>> true
+            BorderThickness<<Moccasin>> 1
+        }
+
+    rectangle Moccasin <<Moccasin>> as "<color:Moccasin></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<NavajoWhite>> NavajoWhite
+            borderColor<<NavajoWhite>> NavajoWhite
+            shadowing<<NavajoWhite>> true
+            BorderThickness<<NavajoWhite>> 1
+        }
+
+    rectangle NavajoWhite <<NavajoWhite>> as "<color:NavajoWhite></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Navy>> Navy
+            borderColor<<Navy>> Navy
+            shadowing<<Navy>> true
+            BorderThickness<<Navy>> 1
+        }
+
+    rectangle Navy <<Navy>> as "<color:Navy></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<OldLace>> OldLace
+            borderColor<<OldLace>> OldLace
+            shadowing<<OldLace>> true
+            BorderThickness<<OldLace>> 1
+        }
+
+    rectangle OldLace <<OldLace>> as "<color:OldLace></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Olive>> Olive
+            borderColor<<Olive>> Olive
+            shadowing<<Olive>> true
+            BorderThickness<<Olive>> 1
+        }
+
+    rectangle Olive <<Olive>> as "<color:Olive></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<OliveDrab>> OliveDrab
+            borderColor<<OliveDrab>> OliveDrab
+            shadowing<<OliveDrab>> true
+            BorderThickness<<OliveDrab>> 1
+        }
+
+    rectangle OliveDrab <<OliveDrab>> as "<color:OliveDrab></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Orange>> Orange
+            borderColor<<Orange>> Orange
+            shadowing<<Orange>> true
+            BorderThickness<<Orange>> 1
+        }
+
+    rectangle Orange <<Orange>> as "<color:Orange></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<OrangeRed>> OrangeRed
+            borderColor<<OrangeRed>> OrangeRed
+            shadowing<<OrangeRed>> true
+            BorderThickness<<OrangeRed>> 1
+        }
+
+    rectangle OrangeRed <<OrangeRed>> as "<color:OrangeRed></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Orchid>> Orchid
+            borderColor<<Orchid>> Orchid
+            shadowing<<Orchid>> true
+            BorderThickness<<Orchid>> 1
+        }
+
+    rectangle Orchid <<Orchid>> as "<color:Orchid></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PHYSICAL>> PHYSICAL
+            borderColor<<PHYSICAL>> PHYSICAL
+            shadowing<<PHYSICAL>> true
+            BorderThickness<<PHYSICAL>> 1
+        }
+
+    rectangle PHYSICAL <<PHYSICAL>> as "<color:PHYSICAL></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PaleGoldenRod>> PaleGoldenRod
+            borderColor<<PaleGoldenRod>> PaleGoldenRod
+            shadowing<<PaleGoldenRod>> true
+            BorderThickness<<PaleGoldenRod>> 1
+        }
+
+    rectangle PaleGoldenRod <<PaleGoldenRod>> as "<color:PaleGoldenRod></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PaleGreen>> PaleGreen
+            borderColor<<PaleGreen>> PaleGreen
+            shadowing<<PaleGreen>> true
+            BorderThickness<<PaleGreen>> 1
+        }
+
+    rectangle PaleGreen <<PaleGreen>> as "<color:PaleGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PaleTurquoise>> PaleTurquoise
+            borderColor<<PaleTurquoise>> PaleTurquoise
+            shadowing<<PaleTurquoise>> true
+            BorderThickness<<PaleTurquoise>> 1
+        }
+
+    rectangle PaleTurquoise <<PaleTurquoise>> as "<color:PaleTurquoise></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PaleVioletRed>> PaleVioletRed
+            borderColor<<PaleVioletRed>> PaleVioletRed
+            shadowing<<PaleVioletRed>> true
+            BorderThickness<<PaleVioletRed>> 1
+        }
+
+    rectangle PaleVioletRed <<PaleVioletRed>> as "<color:PaleVioletRed></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PapayaWhip>> PapayaWhip
+            borderColor<<PapayaWhip>> PapayaWhip
+            shadowing<<PapayaWhip>> true
+            BorderThickness<<PapayaWhip>> 1
+        }
+
+    rectangle PapayaWhip <<PapayaWhip>> as "<color:PapayaWhip></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PeachPuff>> PeachPuff
+            borderColor<<PeachPuff>> PeachPuff
+            shadowing<<PeachPuff>> true
+            BorderThickness<<PeachPuff>> 1
+        }
+
+    rectangle PeachPuff <<PeachPuff>> as "<color:PeachPuff></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Peru>> Peru
+            borderColor<<Peru>> Peru
+            shadowing<<Peru>> true
+            BorderThickness<<Peru>> 1
+        }
+
+    rectangle Peru <<Peru>> as "<color:Peru></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Pink>> Pink
+            borderColor<<Pink>> Pink
+            shadowing<<Pink>> true
+            BorderThickness<<Pink>> 1
+        }
+
+    rectangle Pink <<Pink>> as "<color:Pink></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Plum>> Plum
+            borderColor<<Plum>> Plum
+            shadowing<<Plum>> true
+            BorderThickness<<Plum>> 1
+        }
+
+    rectangle Plum <<Plum>> as "<color:Plum></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<PowderBlue>> PowderBlue
+            borderColor<<PowderBlue>> PowderBlue
+            shadowing<<PowderBlue>> true
+            BorderThickness<<PowderBlue>> 1
+        }
+
+    rectangle PowderBlue <<PowderBlue>> as "<color:PowderBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Purple>> Purple
+            borderColor<<Purple>> Purple
+            shadowing<<Purple>> true
+            BorderThickness<<Purple>> 1
+        }
+
+    rectangle Purple <<Purple>> as "<color:Purple></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Red>> Red
+            borderColor<<Red>> Red
+            shadowing<<Red>> true
+            BorderThickness<<Red>> 1
+        }
+
+    rectangle Red <<Red>> as "<color:Red></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<RosyBrown>> RosyBrown
+            borderColor<<RosyBrown>> RosyBrown
+            shadowing<<RosyBrown>> true
+            BorderThickness<<RosyBrown>> 1
+        }
+
+    rectangle RosyBrown <<RosyBrown>> as "<color:RosyBrown></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<RoyalBlue>> RoyalBlue
+            borderColor<<RoyalBlue>> RoyalBlue
+            shadowing<<RoyalBlue>> true
+            BorderThickness<<RoyalBlue>> 1
+        }
+
+    rectangle RoyalBlue <<RoyalBlue>> as "<color:RoyalBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<STRATEGY>> STRATEGY
+            borderColor<<STRATEGY>> STRATEGY
+            shadowing<<STRATEGY>> true
+            BorderThickness<<STRATEGY>> 1
+        }
+
+    rectangle STRATEGY <<STRATEGY>> as "<color:STRATEGY></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SaddleBrown>> SaddleBrown
+            borderColor<<SaddleBrown>> SaddleBrown
+            shadowing<<SaddleBrown>> true
+            BorderThickness<<SaddleBrown>> 1
+        }
+
+    rectangle SaddleBrown <<SaddleBrown>> as "<color:SaddleBrown></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Salmon>> Salmon
+            borderColor<<Salmon>> Salmon
+            shadowing<<Salmon>> true
+            BorderThickness<<Salmon>> 1
+        }
+
+    rectangle Salmon <<Salmon>> as "<color:Salmon></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SandyBrown>> SandyBrown
+            borderColor<<SandyBrown>> SandyBrown
+            shadowing<<SandyBrown>> true
+            BorderThickness<<SandyBrown>> 1
+        }
+
+    rectangle SandyBrown <<SandyBrown>> as "<color:SandyBrown></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SeaGreen>> SeaGreen
+            borderColor<<SeaGreen>> SeaGreen
+            shadowing<<SeaGreen>> true
+            BorderThickness<<SeaGreen>> 1
+        }
+
+    rectangle SeaGreen <<SeaGreen>> as "<color:SeaGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SeaShell>> SeaShell
+            borderColor<<SeaShell>> SeaShell
+            shadowing<<SeaShell>> true
+            BorderThickness<<SeaShell>> 1
+        }
+
+    rectangle SeaShell <<SeaShell>> as "<color:SeaShell></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Sienna>> Sienna
+            borderColor<<Sienna>> Sienna
+            shadowing<<Sienna>> true
+            BorderThickness<<Sienna>> 1
+        }
+
+    rectangle Sienna <<Sienna>> as "<color:Sienna></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Silver>> Silver
+            borderColor<<Silver>> Silver
+            shadowing<<Silver>> true
+            BorderThickness<<Silver>> 1
+        }
+
+    rectangle Silver <<Silver>> as "<color:Silver></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SkyBlue>> SkyBlue
+            borderColor<<SkyBlue>> SkyBlue
+            shadowing<<SkyBlue>> true
+            BorderThickness<<SkyBlue>> 1
+        }
+
+    rectangle SkyBlue <<SkyBlue>> as "<color:SkyBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SlateBlue>> SlateBlue
+            borderColor<<SlateBlue>> SlateBlue
+            shadowing<<SlateBlue>> true
+            BorderThickness<<SlateBlue>> 1
+        }
+
+    rectangle SlateBlue <<SlateBlue>> as "<color:SlateBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SlateGray>> SlateGray
+            borderColor<<SlateGray>> SlateGray
+            shadowing<<SlateGray>> true
+            BorderThickness<<SlateGray>> 1
+        }
+
+    rectangle SlateGray <<SlateGray>> as "<color:SlateGray></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SlateGrey>> SlateGrey
+            borderColor<<SlateGrey>> SlateGrey
+            shadowing<<SlateGrey>> true
+            BorderThickness<<SlateGrey>> 1
+        }
+
+    rectangle SlateGrey <<SlateGrey>> as "<color:SlateGrey></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Snow>> Snow
+            borderColor<<Snow>> Snow
+            shadowing<<Snow>> true
+            BorderThickness<<Snow>> 1
+        }
+
+    rectangle Snow <<Snow>> as "<color:Snow></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SpringGreen>> SpringGreen
+            borderColor<<SpringGreen>> SpringGreen
+            shadowing<<SpringGreen>> true
+            BorderThickness<<SpringGreen>> 1
+        }
+
+    rectangle SpringGreen <<SpringGreen>> as "<color:SpringGreen></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<SteelBlue>> SteelBlue
+            borderColor<<SteelBlue>> SteelBlue
+            shadowing<<SteelBlue>> true
+            BorderThickness<<SteelBlue>> 1
+        }
+
+    rectangle SteelBlue <<SteelBlue>> as "<color:SteelBlue></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<TECHNOLOGY>> TECHNOLOGY
+            borderColor<<TECHNOLOGY>> TECHNOLOGY
+            shadowing<<TECHNOLOGY>> true
+            BorderThickness<<TECHNOLOGY>> 1
+        }
+
+    rectangle TECHNOLOGY <<TECHNOLOGY>> as "<color:TECHNOLOGY></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Tan>> Tan
+            borderColor<<Tan>> Tan
+            shadowing<<Tan>> true
+            BorderThickness<<Tan>> 1
+        }
+
+    rectangle Tan <<Tan>> as "<color:Tan></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Teal>> Teal
+            borderColor<<Teal>> Teal
+            shadowing<<Teal>> true
+            BorderThickness<<Teal>> 1
+        }
+
+    rectangle Teal <<Teal>> as "<color:Teal></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Thistle>> Thistle
+            borderColor<<Thistle>> Thistle
+            shadowing<<Thistle>> true
+            BorderThickness<<Thistle>> 1
+        }
+
+    rectangle Thistle <<Thistle>> as "<color:Thistle></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Tomato>> Tomato
+            borderColor<<Tomato>> Tomato
+            shadowing<<Tomato>> true
+            BorderThickness<<Tomato>> 1
+        }
+
+    rectangle Tomato <<Tomato>> as "<color:Tomato></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Turquoise>> Turquoise
+            borderColor<<Turquoise>> Turquoise
+            shadowing<<Turquoise>> true
+            BorderThickness<<Turquoise>> 1
+        }
+
+    rectangle Turquoise <<Turquoise>> as "<color:Turquoise></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Violet>> Violet
+            borderColor<<Violet>> Violet
+            shadowing<<Violet>> true
+            BorderThickness<<Violet>> 1
+        }
+
+    rectangle Violet <<Violet>> as "<color:Violet></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Wheat>> Wheat
+            borderColor<<Wheat>> Wheat
+            shadowing<<Wheat>> true
+            BorderThickness<<Wheat>> 1
+        }
+
+    rectangle Wheat <<Wheat>> as "<color:Wheat></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<White>> White
+            borderColor<<White>> White
+            shadowing<<White>> true
+            BorderThickness<<White>> 1
+        }
+
+    rectangle White <<White>> as "<color:White></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<WhiteSmoke>> WhiteSmoke
+            borderColor<<WhiteSmoke>> WhiteSmoke
+            shadowing<<WhiteSmoke>> true
+            BorderThickness<<WhiteSmoke>> 1
+        }
+
+    rectangle WhiteSmoke <<WhiteSmoke>> as "<color:WhiteSmoke></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<Yellow>> Yellow
+            borderColor<<Yellow>> Yellow
+            shadowing<<Yellow>> true
+            BorderThickness<<Yellow>> 1
+        }
+
+    rectangle Yellow <<Yellow>> as "<color:Yellow></color>"
+
+
+    skinparam rectangle {
+            backgroundColor<<YellowGreen>> YellowGreen
+            borderColor<<YellowGreen>> YellowGreen
+            shadowing<<YellowGreen>> true
+            BorderThickness<<YellowGreen>> 1
+        }
+
+    rectangle YellowGreen <<YellowGreen>> as "<color:YellowGreen></color>"
+
+
+}
+@enduml
+
+PlantUML version 1.2020.22(Sun Dec 06 17:36:27 IRKT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

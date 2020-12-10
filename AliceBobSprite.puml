@@ -1,0 +1,9 @@
+@startuml AliceBobSprite
+!include C4person16.sprite
+!include C4person4Small.sprite
+
+Bob : <$C4person100Small> Small
+Alice : <$C4person100> Big
+
+Alice -> Bob 
+@enduml

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="816px" preserveAspectRatio="none" style="width:1434px;height:816px;" version="1.1" viewBox="0 0 1434 816" width="1434px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="560" x="430.5" y="16.708">Top level Context diagram for ACME Global Widget Production</text><!--MD5=[d7f06cc0994be04fdc63ab5d20b301e2]
+cluster Remote--><rect fill="#FFFFFF" height="423" style="stroke:#444444;stroke-width:1.0;stroke-dasharray:7.0,7.0;" width="952" x="241.5" y="27.9531"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="683" y="44.8047">Remote</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="686.5" y="59.7168">[System]</text><!--MD5=[14cc6b8c5dbef91bbef98c521495dfa9]
+cluster AcmeProd--><rect fill="#FFFFFF" height="155" style="stroke:#444444;stroke-width:1.0;stroke-dasharray:7.0,7.0;" width="656" x="33.5" y="514.9531"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="193" x="265" y="531.8047">ACME Production Site</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="84" x="319.5" y="546.7168">[Enterprise]</text><!--MD5=[1e5624694304010c9041856e9c18ce3a]
+cluster 3rdProd--><rect fill="#FFFFFF" height="155" style="stroke:#444444;stroke-width:1.0;stroke-dasharray:7.0,7.0;" width="656" x="713.5" y="514.9531"/><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="221" x="931" y="531.8047">3rdParty Production Site</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="84" x="999.5" y="546.7168">[Enterprise]</text><!--MD5=[94d95d971b933ac85efb09afe3147efb]
+entity ProdSystemHost--><rect fill="#1168BD" height="103.8125" style="stroke:#3C7FC0;stroke-width:1.5;" width="218" x="592.5" y="330.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="144" x="629.5" y="355.8047">Production Host</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="703.5" y="372.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="172" x="617.5" y="388.8701">Drives widget Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="190" x="606.5" y="405.167">Analyses widget Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="150" x="626.5" y="421.4639">data to create reports</text><!--MD5=[78444b0373532d6497ce4bf9dd597f37]
+entity Analytics--><rect fill="#1168BD" height="120.1094" style="stroke:#3C7FC0;stroke-width:1.5;" width="220" x="957.5" y="78.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="1028" y="103.8047">Analytics</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1069.5" y="120.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="193" x="973" y="136.8701">Provides data analysis and a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="151" x="990" y="153.167">dashboard view data -</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="200" x="967.5" y="169.4639">including relevant Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="30" x="1052.5" y="185.7607">data</text><!--MD5=[ff67a6d56b46582aabcb52a271276edf]
+entity Monitoring--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="199" x="723" y="94.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="95" x="775" y="119.8047">Monitoring</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="824.5" y="136.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175" x="737" y="152.8701">Monitors Production Host</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="756.5" y="169.167">Uses AWS Services</text><!--MD5=[22fe4d85b941b3486270ca3f647ddca2]
+entity SupplyChain--><rect fill="#999999" height="87.5156" style="stroke:#8A8A8A;stroke-width:1.5;" width="213" x="475" y="94.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="106" x="528.5" y="119.8047">SupplyChain</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="583.5" y="136.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="185" x="489" y="152.8701">Provides parts to make the</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54" x="554.5" y="169.167">widgets</text><!--MD5=[d31f55c184217055a7079a0ff60524b6]
+entity InventoryTracking--><rect fill="#999999" height="71.2188" style="stroke:#8A8A8A;stroke-width:1.5;" width="182" x="257.5" y="103.4531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="162" x="267.5" y="128.3047">InventoryTracking</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="350.5" y="145.0732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144" x="278.5" y="161.3701">Customer Reference</text><!--MD5=[0dbc13e171bcc5dc313b21b759dbeac2]
+entity AcmeWorkStation1--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="185" x="49" y="565.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="122" x="80.5" y="590.8047">WorkStation1</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="143.5" y="607.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="67" y="623.8701">Production setup for a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="83.5" y="640.167">group of widgets</text><!--MD5=[70999b44e41601d4ab3b2a16772fd035]
+entity AcmeWorkStation2--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="185" x="269" y="565.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="122" x="300.5" y="590.8047">WorkStation2</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="363.5" y="607.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="287" y="623.8701">Production setup for a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="303.5" y="640.167">group of widgets</text><!--MD5=[bf64d8479c73b6052ecc9a28c10b2bfb]
+entity AcmeWorkStationN--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="185" x="489" y="565.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="124" x="519.5" y="590.8047">WorkStationN</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="583.5" y="607.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="507" y="623.8701">Production setup for a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="523.5" y="640.167">group of widgets</text><!--MD5=[abfd913fca726da2b2e1e4a7fb1c41de]
+entity 3rdWorkStation1--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="185" x="729" y="565.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="122" x="760.5" y="590.8047">WorkStation1</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="823.5" y="607.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="747" y="623.8701">Production setup for a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="763.5" y="640.167">group of widgets</text><!--MD5=[7966a25e3d81d7597cc14a7470abb9b7]
+entity 3rdWorkStation2--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="185" x="949" y="565.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="122" x="980.5" y="590.8047">WorkStation2</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1043.5" y="607.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="967" y="623.8701">Production setup for a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="983.5" y="640.167">group of widgets</text><!--MD5=[45e718bef8db433806048c6b9cbadbc4]
+entity 3rdWorkStationN--><rect fill="#1168BD" height="87.5156" style="stroke:#3C7FC0;stroke-width:1.5;" width="185" x="1169" y="565.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="124" x="1199.5" y="590.8047">WorkStationN</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1263.5" y="607.5732"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="153" x="1187" y="623.8701">Production setup for a</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="116" x="1203.5" y="640.167">group of widgets</text><!--MD5=[69fc698e43de4342a1c552095596ff87]
+entity AcmeProdOwner--><rect fill="#08427B" height="170.4375" style="stroke:#073B6F;stroke-width:1.5;" width="215" x="7" y="53.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="152" x="35.5" y="78.8047">Acme Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="85" y="97.4297">Owner</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="116.5" y="114.1982"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="92.5" y="162.1982"/><image height="48" width="44" x="92.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAwCAIAAADl8g+2AAAB6klEQVR4XtWXMU4DMRBFU/oIHIEr0NLRcAA4ABI1XSpECZQ0CFFCg0RBQwktLRfiC6+8Xv/18MdJnCC9Au1uPM/2eMYswuFy6yz4UX/aJY4uHq+fPl8+vgH+OLl83ju+4s8UWiQQ7+HtK4YvWN6/N6i4JdLsDfZPb/iHBj4JxQBgnVzr4ZA4v33leDXgwSPUUCUwM45kg9ThcWZRJZBxHMYGe8fjzCJJNCxDRMxQSeLg7I4DKIg7IklgLA6gIO6IJOE6FwU8GvN/JJq3Q6wWkgR6FQdQwBLyaIwksRNHNMhdI0fci6BLYE4cxkbci6BLBH/l1hupQwKD1u4yDIosj1DDIRFkD5dB8EqEXw9jX5C/XoPQIBFhlbbwEUkCR6OWZXheexXf8kPmDwmET0ngnWhaKhRcfptTlUB47lt4okwOukVxszdrXsLuWMbMoG7UVqwN/yTMShjJn4NgWJgEfqWcXnzDDaWU4C1YO9xTJhJiLVqd4u45kWi+N3gp7p4TCSOn1k5+yiYS/OnmyE/sKNFwY1iF/LYxSnRLiEieFqNEh8NZMCMh1qg1knJzlOh5NCIpN0eJPmUqJ/WgbUqkAzJK8EebJjXVQaL5f6xVSKd0kOhcqSKlROdKFUk9fZCwr1IbopTYLjsh8QMOUlZg3Tu3JQAAAABJRU5ErkJggg==" y="117.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="140.5" y="162.1982"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="187" x="21" y="178.4951">Responsible for Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="131" x="47" y="194.792">of widgets in ACME</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="62" y="211.0889">Production Site</text><!--MD5=[a0b39481bda1df362b4f491ff067483a]
+entity 3rdProdOwner--><rect fill="#08427B" height="170.4375" style="stroke:#073B6F;stroke-width:1.5;" width="215" x="1213" y="53.9531"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="181" x="1227" y="78.8047">3rdParty Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="1291" y="97.4297">Owner</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1322.5" y="114.1982"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1298.5" y="162.1982"/><image height="48" width="44" x="1298.5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAwCAIAAADl8g+2AAAB6klEQVR4XtWXMU4DMRBFU/oIHIEr0NLRcAA4ABI1XSpECZQ0CFFCg0RBQwktLRfiC6+8Xv/18MdJnCC9Au1uPM/2eMYswuFy6yz4UX/aJY4uHq+fPl8+vgH+OLl83ju+4s8UWiQQ7+HtK4YvWN6/N6i4JdLsDfZPb/iHBj4JxQBgnVzr4ZA4v33leDXgwSPUUCUwM45kg9ThcWZRJZBxHMYGe8fjzCJJNCxDRMxQSeLg7I4DKIg7IklgLA6gIO6IJOE6FwU8GvN/JJq3Q6wWkgR6FQdQwBLyaIwksRNHNMhdI0fci6BLYE4cxkbci6BLBH/l1hupQwKD1u4yDIosj1DDIRFkD5dB8EqEXw9jX5C/XoPQIBFhlbbwEUkCR6OWZXheexXf8kPmDwmET0ngnWhaKhRcfptTlUB47lt4okwOukVxszdrXsLuWMbMoG7UVqwN/yTMShjJn4NgWJgEfqWcXnzDDaWU4C1YO9xTJhJiLVqd4u45kWi+N3gp7p4TCSOn1k5+yiYS/OnmyE/sKNFwY1iF/LYxSnRLiEieFqNEh8NZMCMh1qg1knJzlOh5NCIpN0eJPmUqJ/WgbUqkAzJK8EebJjXVQaL5f6xVSKd0kOhcqSKlROdKFUk9fZCwr1IbopTYLjsh8QMOUlZg3Tu3JQAAAABJRU5ErkJggg==" y="117.5"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1346.5" y="162.1982"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="187" x="1227" y="178.4951">Responsible for Production</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="148" x="1244.5" y="194.792">of widgets in 3rdParty</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="1268" y="211.0889">Production Site</text><!--MD5=[27a16bfe9fd59dd0b7d7a3b0d829a592]
+reverse link ProdSystemHost to AcmeWorkStation1--><path d="M587.3,389.5931 C500.99,397.8431 381.84,417.9731 288.5,466.9531 C242.78,490.9431 201.55,533.5331 174.47,565.8331 " fill="none" id="ProdSystemHost-backto-AcmeWorkStation1" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="592.42,389.1131,583.0924,385.9516,587.4409,389.5697,583.8228,393.9182,592.42,389.1131" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="289.5" y="480.02">Sends Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="293" y="495.1528">report for widget</text><!--MD5=[556e6d55d2ae89cbefdbbf862ace1ca0]
+reverse link ProdSystemHost to AcmeWorkStation2--><path d="M587.36,409.0431 C546.28,421.8031 501.28,440.4031 465.5,466.9531 C430.29,493.0831 401.87,534.5431 383.7,565.9231 " fill="none" id="ProdSystemHost-backto-AcmeWorkStation2" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="592.35,407.5231,582.5741,406.3262,587.568,408.9835,584.9107,413.9774,592.35,407.5231" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="466.5" y="480.02">Sends Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="470" y="495.1528">report for widget</text><!--MD5=[0c763b251e713018dd800886bbfd9751]
+reverse link ProdSystemHost to AcmeWorkStationN--><path d="M644.74,439.4631 C637.61,448.2031 630.93,457.4831 625.5,466.9531 C607.77,497.8431 596.37,536.6931 589.63,565.9431 " fill="none" id="ProdSystemHost-backto-AcmeWorkStationN" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="648.27,435.2231,639.437,439.5796,645.0705,439.0654,645.5847,444.6988,648.27,435.2231" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="626.5" y="480.02">Sends Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="630" y="495.1528">report for widget</text><!--MD5=[17037a3a892144881097ed88a780907b]
+reverse link ProdSystemHost to 3rdWorkStation1--><path d="M748.44,439.3431 C754.95,448.2731 761.21,457.6531 766.5,466.9531 C784.4,498.4431 798.89,536.8931 808.5,565.8431 " fill="none" id="ProdSystemHost-backto-3rdWorkStation1" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="745.23,434.9931,747.3532,444.6104,748.1979,439.017,753.7914,439.8617,745.23,434.9931" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="782.5" y="480.02">Sends Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="786" y="495.1528">report for widget</text><!--MD5=[6d1c674e51c443047e40306b6bb6fff1]
+reverse link ProdSystemHost to 3rdWorkStation2--><path d="M815.64,412.8631 C853.1,425.6831 893.54,443.3431 926.5,466.9531 C963.38,493.3731 994.94,534.5831 1015.62,565.8231 " fill="none" id="ProdSystemHost-backto-3rdWorkStation2" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="810.61,411.1631,817.8592,417.8301,815.3477,412.7614,820.4164,410.2498,810.61,411.1631" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="960.5" y="480.02">Sends Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="964" y="495.1528">report for widget</text><!--MD5=[c02f9d29c53d143a2e08ba10e61b68a9]
+reverse link ProdSystemHost to 3rdWorkStationN--><path d="M816.05,392.2231 C899.51,401.8231 1013.42,422.4931 1104.5,466.9531 C1152.72,490.4931 1197,533.3631 1226.16,565.8731 " fill="none" id="ProdSystemHost-backto-3rdWorkStationN" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="810.59,391.6031,819.0869,396.5833,815.5587,392.1616,819.9804,388.6334,810.59,391.6031" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="1153.5" y="480.02">Sends Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="128" x="1157" y="495.1528">report for widget</text><!--MD5=[b9cc37bce5cf2c8faf24f3c8ced1ddb1]
+link AcmeProdOwner to ProdSystemHost--><path d="M216.41,224.0431 C254.64,252.0431 299.71,281.1131 344.5,300.9531 C421.82,335.1931 515.21,355.7231 587.07,367.5431 " fill="none" id="AcmeProdOwner-to-ProdSystemHost" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="592.21,368.3831,583.9672,362.9928,587.2746,367.582,582.6854,370.8895,592.21,368.3831" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="139" x="345.5" y="267.02">Reviews Acme and</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="96" x="367" y="282.1528">3rdParty site</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="139" x="348" y="297.2856">Production reports</text><!--MD5=[dd0272dd2ba27d28bf025aaa84a77ed0]
+link 3rdProdOwner to ProdSystemHost--><path d="M1212.75,212.7831 C1206.3,216.6531 1199.85,220.4131 1193.5,223.9531 C1122.49,263.6131 1104.2,273.9131 1027.5,300.9531 C958.48,325.2831 878.8,345.2231 815.49,359.2331 " fill="none" id="3rdProdOwner-to-ProdSystemHost" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="810.58,360.3131,820.2346,362.2595,815.4603,359.2254,818.4943,354.4511,810.58,360.3131" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="129" x="1138.5" y="267.02">Reviews 3rdParty</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="112" x="1147" y="282.1528">site Production</text><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="54" x="1178.5" y="297.2856">reports</text><!--MD5=[9a3236c653f104a9619c2adc82314a3e]
+link Analytics to ProdSystemHost--><path d="M993.02,199.2631 C951.98,230.9031 899.53,269.6531 850.5,300.9531 C835.87,310.2931 820.07,319.6231 804.43,328.4631 " fill="none" id="Analytics-to-ProdSystemHost" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="800.02,330.9431,809.8265,330.0308,804.3813,328.4979,805.9142,323.0527,800.02,330.9431" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="100" x="918.5" y="282.02">Data Analysis</text><!--MD5=[aeb0863ebe58f11769a8cb6de77090ff]
+link SupplyChain to ProdSystemHost--><path d="M602.95,183.2131 C622.73,223.0931 652.19,282.5031 673.75,325.9831 " fill="none" id="SupplyChain-to-ProdSystemHost" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="676.07,330.6731,675.6731,320.8323,673.8568,326.1896,668.4995,324.3734,676.07,330.6731" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="659.5" y="282.02">Parts</text><!--MD5=[6066f70e853c735bfeade569aa1a86ed]
+link InventoryTracking to ProdSystemHost--><path d="M392.4,174.5831 C412.13,189.9431 435.81,208.0831 457.5,223.9531 C505.96,259.4031 518.17,268.2131 568.5,300.9531 C582.26,309.9031 596.97,319.1631 611.42,328.0831 " fill="none" id="InventoryTracking-to-ProdSystemHost" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="615.89,330.8431,610.3336,322.7113,611.6356,328.2163,606.1307,329.5183,615.89,330.8431" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="63" x="569.5" y="282.02">Tracking</text><!--MD5=[7a8e1782f3e3f5fa2aa25bfb6832c8a8]
+link Monitoring to ProdSystemHost--><path d="M800.87,183.2131 C780.93,223.0931 751.22,282.5031 729.49,325.9831 " fill="none" id="Monitoring-to-ProdSystemHost" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="727.14,330.6731,734.7506,324.4218,729.3818,326.2038,727.5998,320.835,727.14,330.6731" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="762.5" y="282.02">Monitoring</text><rect fill="#DDDDDD" height="95.4844" rx="5" ry="5" style="stroke:#000000;stroke-width:1.0;" width="199" x="1213" y="682.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="1289" y="702.9482"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="1294" y="702.9482">Type</text><rect fill="#08427B" height="16.2969" style="stroke:none;stroke-width:1.0;" width="70" x="1219" y="706.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1243" y="719.2451"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="1293" y="719.2451">person</text><rect fill="#686868" height="16.2969" style="stroke:none;stroke-width:1.0;" width="70" x="1219" y="722.5469"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1243" y="735.542"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="1293" y="735.542">external person</text><rect fill="#1168BD" height="16.2969" style="stroke:none;stroke-width:1.0;" width="70" x="1219" y="738.8438"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1231" y="751.8389"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="1293" y="751.8389">system</text><rect fill="#999999" height="16.2969" style="stroke:none;stroke-width:1.0;" width="70" x="1219" y="755.1406"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="1243" y="768.1357"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1293" y="768.1357">external system</text><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1406" y1="689.9531" y2="689.9531"/><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1406" y1="706.25" y2="706.25"/><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1406" y1="722.5469" y2="722.5469"/><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1406" y1="738.8438" y2="738.8438"/><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1406" y1="755.1406" y2="755.1406"/><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1406" y1="771.4375" y2="771.4375"/><line style="stroke:#000000;stroke-width:1.0;" x1="1219" x2="1219" y1="689.9531" y2="771.4375"/><line style="stroke:#000000;stroke-width:1.0;" x1="1289" x2="1289" y1="689.9531" y2="771.4375"/><line style="stroke:#000000;stroke-width:1.0;" x1="1406" x2="1406" y1="689.9531" y2="771.4375"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="322" x="549.5" y="796.7197">C4ACMEContext.puml rendered with PlantUML version 1.2020.22</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="171" x="625" y="808.3604">The Hitchhiker’s Guide to PlantUML</text><!--MD5=[338e8f6129a48b17ed1cf858afacdf1b]
+@startuml C4ACMEContext
+!include  <C4/C4_Context.puml>
+!include <office/Users/user.puml>
+
+LAYOUT_WITH_LEGEND()
+
+
+title Top level Context diagram for ACME Global Widget Production
+
+
+Person(AcmeProdOwner, Acme Production Owner , "<$user> \n Responsible for Production of widgets in ACME Production Site" )
+Person(3rdProdOwner, 3rdParty Production Owner , "<$user> \n Responsible for Production of widgets in 3rdParty Production Site" )
+
+
+System_Boundary(Remote, "Remote") {
+
+    System(ProdSystemHost, "Production Host", "Drives widget Production\n Analyses widget Production data to create reports")
+    System(Analytics, "Analytics", "Provides data analysis and a dashboard view data - including relevant Production data")
+    System(Monitoring, "Monitoring", "Monitors Production Host\nUses AWS Services")
+    System_Ext(SupplyChain, "SupplyChain", "Provides parts to make the widgets")
+    System_Ext(InventoryTracking, "InventoryTracking", "Customer Reference")
+    
+
+}
+
+
+
+Enterprise_Boundary(AcmeProd, "ACME Production Site") {
+
+    System(AcmeWorkStation1, "WorkStation1", " Production setup for a group of widgets")    
+    System(AcmeWorkStation2, "WorkStation2", " Production setup for a group of widgets")        
+    System(AcmeWorkStationN, "WorkStationN", " Production setup for a group of widgets")        
+
+}
+
+
+Enterprise_Boundary(3rdProd, "3rdParty Production Site") {
+
+
+    System(3rdWorkStation1, "WorkStation1", " Production setup for a group of widgets")    
+    System(3rdWorkStation2, "WorkStation2", " Production setup for a group of widgets")        
+    System(3rdWorkStationN, "WorkStationN", " Production setup for a group of widgets")     
+}
+
+
+Rel_U(AcmeWorkStation1, ProdSystemHost, "Sends Production report for widget")
+Rel_U(AcmeWorkStation2, ProdSystemHost, "Sends Production report for widget")
+Rel_U(AcmeWorkStationN, ProdSystemHost, "Sends Production report for widget")
+
+
+Rel_U(3rdWorkStation1, ProdSystemHost, "Sends Production report for widget")
+Rel_U(3rdWorkStation2, ProdSystemHost, "Sends Production report for widget")
+Rel_U(3rdWorkStationN, ProdSystemHost, "Sends Production report for widget")
+
+
+
+
+
+Rel_D(AcmeProdOwner, ProdSystemHost, "Reviews Acme and 3rdParty site Production reports")
+Rel_D(3rdProdOwner, ProdSystemHost, "Reviews 3rdParty site Production reports")
+
+
+Rel_D(Analytics, ProdSystemHost, "Data Analysis")
+Rel_D(SupplyChain, ProdSystemHost, "Parts")
+Rel_D(InventoryTracking, ProdSystemHost, "Tracking")
+Rel_D(Monitoring, ProdSystemHost, "Monitoring")
+
+footer %filename() rendered with PlantUML version %version()\nThe Hitchhiker’s Guide to PlantUML
+
+@enduml
+
+@startuml C4ACMEContext
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+sprite $user [44x48/16] {
+00000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000
+000000000000000000048AA851000000000000000000
+0000000000000000059AAAAAAA710000000000000000
+00000000000000008AAAAAAAAAAA2000000000000000
+0000000000000008AAAAAAAAAAAA9100000000000000
+000000000000006AAAAAAAAAAAAAA900000000000000
+00000000000001AAAAAAAAAAAAAAAA50000000000000
+00000000000007AAAAAAAAAAAAAAAA80000000000000
+0000000000001AAAAAAAAAAAAAAAAAA2000000000000
+0000000000003AAAAAAAAAAAAAAAAAA5000000000000
+0000000000005AAAAAAAAAAAAAAAAAA8000000000000
+0000000000006AAAAAAAAAAAAAAAAAAA000000000000
+0000000000006AAAAAAAAAAAAAAAAAAA000000000000
+0000000000005AAAAAAAAAAAAAAAAAA9000000000000
+0000000000004AAAAAAAAAAAAAAAAAA6000000000000
+0000000000001AAAAAAAAAAAAAAAAAA2000000000000
+00000000000008AAAAAAAAAAAAAAAA90000000000000
+00000000000002AAAAAAAAAAAAAAAA60000000000000
+000000000000007AAAAAAAAAAAAAAA10000000000000
+0000000000000019AAAAAAAAAAAAA300000000000000
+00000000000000019AAAAAAAAAAA3000000000000000
+000000000000000017AAAAAAAA830000000000000000
+00000000000000000017AAAA83000000000000000000
+00000000000021000000011000000001000000000000
+000000000029AA30000000000000007AA40000000000
+0000000026AAAAA610000000000038AAAA8300000000
+00000005AAAAAAAAA40000000028AAAAAAAA70000000
+0000007AAAAAAAAAAAA8666679AAAAAAAAAAA9200000
+000006AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA900000
+000019AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA50000
+00004AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA80000
+00008AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1000
+0000AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3000
+0002AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6000
+0004AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8000
+0006AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA000
+0007AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA100
+0008AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA300
+0009AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA400
+0009AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA600
+000AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA700
+001AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA800
+002AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA800
+004AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA900
+005AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA900
+00000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000
+}
+
+
+hide stereotype
+legend right
+|=              |= Type |
+|<#08427B>      | person |
+|<#686868>      | external person |
+|<#1168BD>   | system |
+|<#999999>      | external system |
+endlegend
+
+
+title Top level Context diagram for ACME Global Widget Production
+
+
+rectangle "==Acme Production Owner\n\n <$user> \n Responsible for Production of widgets in ACME Production Site" <<person>> as AcmeProdOwner
+rectangle "==3rdParty Production Owner\n\n <$user> \n Responsible for Production of widgets in 3rdParty Production Site" <<person>> as 3rdProdOwner
+
+
+rectangle "==Remote\n<size:12>[System]</size>" <<boundary>> as Remote {
+
+    rectangle "==Production Host\n\n Drives widget Production\n Analyses widget Production data to create reports" <<system>> as ProdSystemHost
+    rectangle "==Analytics\n\n Provides data analysis and a dashboard view data - including relevant Production data" <<system>> as Analytics
+    rectangle "==Monitoring\n\n Monitors Production Host\nUses AWS Services" <<system>> as Monitoring
+    rectangle "==SupplyChain\n\n Provides parts to make the widgets" <<external_system>> as SupplyChain
+    rectangle "==InventoryTracking\n\n Customer Reference" <<external_system>> as InventoryTracking
+    
+
+}
+
+
+
+rectangle "==ACME Production Site\n<size:12>[Enterprise]</size>" <<boundary>> as AcmeProd {
+
+    rectangle "==WorkStation1\n\n  Production setup for a group of widgets" <<system>> as AcmeWorkStation1    
+    rectangle "==WorkStation2\n\n  Production setup for a group of widgets" <<system>> as AcmeWorkStation2        
+    rectangle "==WorkStationN\n\n  Production setup for a group of widgets" <<system>> as AcmeWorkStationN        
+
+}
+
+
+rectangle "==3rdParty Production Site\n<size:12>[Enterprise]</size>" <<boundary>> as 3rdProd {
+
+
+    rectangle "==WorkStation1\n\n  Production setup for a group of widgets" <<system>> as 3rdWorkStation1    
+    rectangle "==WorkStation2\n\n  Production setup for a group of widgets" <<system>> as 3rdWorkStation2        
+    rectangle "==WorkStationN\n\n  Production setup for a group of widgets" <<system>> as 3rdWorkStationN     
+}
+
+
+AcmeWorkStation1 -UP-> ProdSystemHost : "===Sends Production report for widget"
+AcmeWorkStation2 -UP-> ProdSystemHost : "===Sends Production report for widget"
+AcmeWorkStationN -UP-> ProdSystemHost : "===Sends Production report for widget"
+
+
+3rdWorkStation1 -UP-> ProdSystemHost : "===Sends Production report for widget"
+3rdWorkStation2 -UP-> ProdSystemHost : "===Sends Production report for widget"
+3rdWorkStationN -UP-> ProdSystemHost : "===Sends Production report for widget"
+
+
+
+
+
+AcmeProdOwner -DOWN-> ProdSystemHost : "===Reviews Acme and 3rdParty site Production reports"
+3rdProdOwner -DOWN-> ProdSystemHost : "===Reviews 3rdParty site Production reports"
+
+
+Analytics -DOWN-> ProdSystemHost : "===Data Analysis"
+SupplyChain -DOWN-> ProdSystemHost : "===Parts"
+InventoryTracking -DOWN-> ProdSystemHost : "===Tracking"
+Monitoring -DOWN-> ProdSystemHost : "===Monitoring"
+
+footer C4ACMEContext.puml rendered with PlantUML version 1.2020.22\nThe Hitchhiker’s Guide to PlantUML
+
+@enduml
+
+PlantUML version 1.2020.22(Sun Dec 06 17:36:27 IRKT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

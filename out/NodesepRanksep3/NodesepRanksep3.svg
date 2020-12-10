@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="427px" preserveAspectRatio="none" style="width:308px;height:427px;" version="1.1" viewBox="0 0 308 427" width="308px" zoomAndPan="magnify"><defs><filter height="300%" id="fduofk4ynmygd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[ce7be2ce776621b2dee39fde1aa42f50]
+entity Arrows--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="67" x="76" y="193"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="86" y="215.9951">Arrows</text><!--MD5=[770389ab9df153645bc6ef28055eb2b5]
+entity A--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="29" x="7" y="379"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="9" x="17" y="401.9951">A</text><!--MD5=[b2d39259b6aeabc16b394deeb0238426]
+entity B--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="30" x="71.5" y="379"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="10" x="81.5" y="401.9951">B</text><!--MD5=[16fab723be418f7eaf2ea4bd895a8e51]
+entity C--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="30" x="203.5" y="379"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="10" x="213.5" y="401.9951">C</text><!--MD5=[118f42602524ad482f02b27ef22fc383]
+entity D--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="31" x="137" y="379"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="11" x="147" y="401.9951">D</text><!--MD5=[68f82070d0aec4ff4b64d9b1102926da]
+entity E--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="29" x="204" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="9" x="214" y="29.9951">E</text><!--MD5=[22029b2902cbfefb11350e8ee6e306b3]
+entity F--><rect fill="#FEFECE" filter="url(#fduofk4ynmygd)" height="36.2969" style="stroke:#000000;stroke-width:1.5;" width="28" x="268.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="8" x="278.5" y="29.9951">F</text><!--MD5=[a1c8161c19cc8f16fe146c0db9f29ab1]
+link Arrows to A--><path d="M101.22,229.31 C85.13,262.96 49.66,337.12 31.97,374.12 " fill="none" id="Arrows-to-A" style="stroke:#A80036;stroke-width:2.0;"/><polygon fill="#A80036" points="29.69,378.87,37.1795,372.4741,31.8458,374.3586,29.9613,369.0249,29.69,378.87" style="stroke:#A80036;stroke-width:2.0;"/><!--MD5=[209fda50c729b9460be888c17f2159be]
+link Arrows to B--><path d="M107.34,229.31 C103.15,262.82 93.94,336.52 89.29,373.66 " fill="none" id="Arrows-to-B" style="stroke:#FFC0CB;stroke-width:10.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#FFC0CB" points="88.64,378.87,93.7404,370.4447,89.269,373.9097,85.8039,369.4383,88.64,378.87" style="stroke:#FFC0CB;stroke-width:10.0;"/><!--MD5=[6dc99ed3574f4f0bd56a1b8cd4d55b1f]
+link Arrows to C--><path d="M119.75,229.31 C139.69,262.96 183.62,337.12 205.54,374.12 " fill="none" id="Arrows-to-C" style="stroke:#4567FF;stroke-width:1.0;stroke-dasharray:1.0,3.0;"/><polygon fill="#4567FF" points="208.35,378.87,207.2119,369.0871,205.8049,374.5662,200.3258,373.1593,208.35,378.87" style="stroke:#4567FF;stroke-width:1.0;"/><!--MD5=[2db381cf1937bccfdc3eba09053e0d77]
+link Arrows to D--><path d="M113.55,229.31 C121.38,262.82 138.6,336.52 147.28,373.66 " fill="none" id="Arrows-to-D" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="148.5,378.87,150.3386,369.1943,147.358,374.0022,142.5501,371.0215,148.5,378.87" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[72912e6cd343fd0b615113a50578b9b8]
+link E to C--><path d="M218.5,43.35 C218.5,103.92 218.5,305.97 218.5,373.68 " fill="none" id="E-to-C" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="218.5,378.69,222.5,369.69,218.5,373.69,214.5,369.69,218.5,378.69" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[5c37ed7f2cee8c11a3c8e929a261c344]
+@startuml NodesepRanksep3
+
+'left to right direction
+'top to bottom direction
+
+'skinparam nodesep 10
+skinparam ranksep 150
+
+rectangle Arrows
+rectangle A
+rectangle B
+rectangle C
+rectangle D
+rectangle E
+rectangle F
+
+Arrows -[bold]-> A 
+Arrows -[#pink,dashed,thickness=10]-> B
+Arrows -[#4567ff,dotted]-> C
+Arrows - -> D
+
+'long arrow for no good reason 
+E - - -> C 
+
+@enduml
+
+@startuml NodesepRanksep3
+
+
+skinparam ranksep 150
+
+rectangle Arrows
+rectangle A
+rectangle B
+rectangle C
+rectangle D
+rectangle E
+rectangle F
+
+Arrows -[bold]-> A 
+Arrows -[#pink,dashed,thickness=10]-> B
+Arrows -[#4567ff,dotted]-> C
+Arrows - -> D
+
+E - - -> C 
+
+@enduml
+
+PlantUML version 1.2020.22(Sun Dec 06 17:36:27 IRKT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

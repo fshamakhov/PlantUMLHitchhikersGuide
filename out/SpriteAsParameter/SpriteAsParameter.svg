@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="119px" preserveAspectRatio="none" style="width:103px;height:119px;" version="1.1" viewBox="0 0 103 119" width="103px" zoomAndPan="magnify"><defs><filter height="300%" id="ft7gqb03afr4w" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[773709cb2207c097691e7e7d3d2cc787]
+entity 2--><rect fill="#FEFECE" filter="url(#ft7gqb03afr4w)" height="100.2969" style="stroke:#000000;stroke-width:1.5;" width="84" x="7" y="7"/><image height="64" width="64" x="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC+aJAAADA0lEQVR4Xu2azW3cMBCF3WoayJWXFCCkgmwBufia455yN9zBtrAlCH7Qgx4GHP6tRUUrh8CDIVMjcr7hcEjJfgnh26n14pvOpQFwtAbA0RoAR2sAHK0dAS6XH6+vPyFcTNN3b9BFuwDA49vtzzy/S/f73+v1l7fcrv4A8N46Db29/WYLLrz9RnUGQKrAb/gaxRtUbEdG+ae2qDMA/M5FmjMDDH9rizoDMPXhq79Vvfs5dQZgnuRqDhfDUwMwxjmAE8wA10CyYoKKtSiH9zl1BpCXUZjRzvAn2baoM0BYJ4G1CBjcj7k2wNA3/GEPAAgek8FqD+/DTgBhyRkFnlPhbbpoLwCqXJS6aAAU9UQAzGlkM4SLRp8e3bnQ7aMvD00AyapSPldqBVPALrsFe/sKgetG7DqAvFdd1/k+xyAD+AGRBD9zDBrC2s9tU1cByO2sPBvPqfymN3BCj8CGSHAuMrZd2XBwNywwSxUAesPzPf1QMtAnjooWjZTLe9tOez6SOz7Z/guqANgDsHKUgVTkECerXOR0xPD2SWD2z9gV9NUBTp9C09kXcfjnZRTPFvLKqw4Qzr6RUdNylJDrZW+k3HrIiZlTDk2kVgCKdcO350SARtqwN8C0fHUrpLLXAKjrfwIIj6wBLFxtvcBo9GlHAFvmqg4ly+6t+FViWje7ef0uXzC2agKwXau6504p8p5OTMtLFuGTO3EwmzGH0EULQx2ADt2Xo4Ec4jB+HrhO7C06Ma1f5gqPKOqajRaGCoB6T56F/ABsZ6TpNGzotL1lxbz385kDjlQByI0aMrssp4tHS3t+5tTxuqUfdeXBIu0IoMWgCUl2xX58qnDorQAKWzSAUiuZQgozGJTZuVTJnftpz1gUVAEI6wDRwMlGihGNbqnO+FQRs70lez8zkeoACvZ9/bOpfk327u2JlAwzpTKNi6v5s2w1/KEFIJgiKN1qu1Jkr1qUk1Z8o73UBEBdzL8O+Lte1r5AK03LK0e7PfUAwHNqABytAXC0BsDRGgBH6/QAH5gAmY4UW69RAAAAAElFTkSuQmCC" y="17"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="9" x="17" y="93.9951">2</text><!--MD5=[dae67a59194eb350389623f7d3c873fc]
+@startuml SpriteAsParameter
+
+'create equivalent of icons shown here https://github.com/awslabs/aws-icons-for-plantuml
+sprite $Batch [64x64/16z] {
+xLQ7bjim30CdzFzVtEV1iErPkJpT7iYm5aWDKERujFZ5Bp8YkSvM011VfMzSDy2Mw1JidbCGAtmllmbPuIkoImjyGUsyBV4LV95_Xny50bpW4uTRAjOKu81b
+Xa0vbX3OKFG5C0IMNLyxXA_3PvW5hqHSOFBP_Ovk4036hYi0pJdTCgqD6A0g4FQ0hOwygxSikGOanw11AuvtomxXjNiRDECmn21xxTkJP0N4tdy1Gmu5T2GW
+6ygFL_sqbx3NvA_FVtt_ri_F1CZNra-10TpNhvVr2KGcyVCOdoBySlpv-jC1ZSVveO36_Fwb0UASqGqG0QpfJgP2Eo60u59-fLVozhhdNk2WTeDpq2O6AAL_
+uV7KGPNO2lya17gz1pMiD1VmFNH9IBLNe3xA3q07eNsMy_WdXESwU4jRmddEk-FUuPFjjthiqAEGVUz8rlqmsK1nhtYlklvp7vWRfka0jUNITUdTzgxFyzLx
+-Ikh_YdmYr_y0G
+}
+
+!unquoted procedure $SpritePass2($MySprite)
+rectangle "<$MySprite>\n2" as 2
+!endprocedure
+
+$SpritePass2($Batch)
+@enduml
+
+@startuml SpriteAsParameter
+
+sprite $Batch [64x64/16z] {
+xLQ7bjim30CdzFzVtEV1iErPkJpT7iYm5aWDKERujFZ5Bp8YkSvM011VfMzSDy2Mw1JidbCGAtmllmbPuIkoImjyGUsyBV4LV95_Xny50bpW4uTRAjOKu81b
+Xa0vbX3OKFG5C0IMNLyxXA_3PvW5hqHSOFBP_Ovk4036hYi0pJdTCgqD6A0g4FQ0hOwygxSikGOanw11AuvtomxXjNiRDECmn21xxTkJP0N4tdy1Gmu5T2GW
+6ygFL_sqbx3NvA_FVtt_ri_F1CZNra-10TpNhvVr2KGcyVCOdoBySlpv-jC1ZSVveO36_Fwb0UASqGqG0QpfJgP2Eo60u59-fLVozhhdNk2WTeDpq2O6AAL_
+uV7KGPNO2lya17gz1pMiD1VmFNH9IBLNe3xA3q07eNsMy_WdXESwU4jRmddEk-FUuPFjjthiqAEGVUz8rlqmsK1nhtYlklvp7vWRfka0jUNITUdTzgxFyzLx
+-Ikh_YdmYr_y0G
+}
+
+
+rectangle "<$Batch>\n2" as 2
+@enduml
+
+PlantUML version 1.2020.22(Sun Dec 06 17:36:27 IRKT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
